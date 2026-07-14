@@ -1,0 +1,1 @@
+CDISC SDTM-aligned Clinical Data Management pipeline for AYUSH/herbal drug clinical trials — synthetic dataset, automated validation, and SDTM mapping for a simulated Phase II Ayurvedic osteoarthritis trial.
