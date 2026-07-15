@@ -1,0 +1,401 @@
+SUBJID,VISIT,DOSE_FORM,PLANNED_DOSE_MG,COMPLIANCE_PCT,ARM
+AYU-001,Baseline,Tablet,500,90.2,RC-101 (Test)
+AYU-001,Week 2,Tablet,500,94.9,RC-101 (Test)
+AYU-001,Week 4,Tablet,500,100.0,RC-101 (Test)
+AYU-001,Week 8,Tablet,500,87.9,RC-101 (Test)
+AYU-001,Week 12,Tablet,500,85.5,RC-101 (Test)
+AYU-002,Baseline,Tablet,500,88.0,Placebo
+AYU-002,Week 2,Tablet,500,145.0,Placebo
+AYU-002,Week 4,Tablet,500,94.6,Placebo
+AYU-002,Week 8,Tablet,500,87.8,Placebo
+AYU-002,Week 12,Tablet,500,96.1,Placebo
+AYU-003,Baseline,Tablet,500,92.8,RC-101 (Test)
+AYU-003,Week 2,Tablet,500,99.7,RC-101 (Test)
+AYU-003,Week 4,Tablet,500,86.4,RC-101 (Test)
+AYU-003,Week 8,Tablet,500,89.4,RC-101 (Test)
+AYU-003,Week 12,Tablet,500,88.9,RC-101 (Test)
+AYU-004,Baseline,Kashayam (Decoction),1000,80.3,Placebo
+AYU-004,Week 2,Kashayam (Decoction),1000,94.4,Placebo
+AYU-004,Week 4,Kashayam (Decoction),1000,94.1,Placebo
+AYU-004,Week 8,Kashayam (Decoction),1000,92.0,Placebo
+AYU-004,Week 12,Kashayam (Decoction),1000,90.1,Placebo
+AYU-005,Baseline,Kashayam (Decoction),1000,80.7,RC-101 (Test)
+AYU-005,Week 2,Kashayam (Decoction),1000,88.6,RC-101 (Test)
+AYU-005,Week 4,Kashayam (Decoction),1000,89.3,RC-101 (Test)
+AYU-005,Week 8,Kashayam (Decoction),1000,85.6,RC-101 (Test)
+AYU-005,Week 12,Kashayam (Decoction),1000,90.7,RC-101 (Test)
+AYU-006,Baseline,Churna (Powder),1000,95.2,Placebo
+AYU-006,Week 2,Churna (Powder),1000,100.0,Placebo
+AYU-006,Week 4,Churna (Powder),1000,93.4,Placebo
+AYU-006,Week 8,Churna (Powder),1000,94.1,Placebo
+AYU-006,Week 12,Churna (Powder),1000,91.4,Placebo
+AYU-007,Baseline,Kashayam (Decoction),1000,76.6,RC-101 (Test)
+AYU-007,Week 2,Kashayam (Decoction),1000,91.8,RC-101 (Test)
+AYU-007,Week 4,Kashayam (Decoction),1000,92.5,RC-101 (Test)
+AYU-007,Week 8,Kashayam (Decoction),1000,100.0,RC-101 (Test)
+AYU-007,Week 12,Kashayam (Decoction),1000,90.5,RC-101 (Test)
+AYU-008,Baseline,Kashayam (Decoction),1000,94.4,Placebo
+AYU-008,Week 2,Kashayam (Decoction),1000,91.7,Placebo
+AYU-008,Week 4,Kashayam (Decoction),1000,82.7,Placebo
+AYU-008,Week 8,Kashayam (Decoction),1000,100.0,Placebo
+AYU-008,Week 12,Kashayam (Decoction),1000,98.0,Placebo
+AYU-009,Baseline,Kashayam (Decoction),1000,98.3,RC-101 (Test)
+AYU-009,Week 2,Kashayam (Decoction),1000,84.7,RC-101 (Test)
+AYU-009,Week 4,Kashayam (Decoction),1000,100.0,RC-101 (Test)
+AYU-009,Week 8,Kashayam (Decoction),1000,80.8,RC-101 (Test)
+AYU-009,Week 12,Kashayam (Decoction),1000,96.7,RC-101 (Test)
+AYU-010,Baseline,Churna (Powder),1500,100.0,Placebo
+AYU-010,Week 2,Churna (Powder),1500,84.1,Placebo
+AYU-010,Week 4,Churna (Powder),1500,87.5,Placebo
+AYU-010,Week 8,Churna (Powder),1500,92.8,Placebo
+AYU-010,Week 12,Churna (Powder),1500,88.0,Placebo
+AYU-011,Baseline,Churna (Powder),1000,79.6,RC-101 (Test)
+AYU-011,Week 2,Churna (Powder),1000,92.5,RC-101 (Test)
+AYU-011,Week 4,Churna (Powder),1000,83.5,RC-101 (Test)
+AYU-011,Week 8,Churna (Powder),1000,95.8,RC-101 (Test)
+AYU-011,Week 12,Churna (Powder),1000,84.6,RC-101 (Test)
+AYU-012,Baseline,Kashayam (Decoction),1500,100.0,Placebo
+AYU-012,Week 2,Kashayam (Decoction),1500,85.7,Placebo
+AYU-012,Week 4,Kashayam (Decoction),1500,89.4,Placebo
+AYU-012,Week 8,Kashayam (Decoction),1500,98.5,Placebo
+AYU-012,Week 12,Kashayam (Decoction),1500,82.2,Placebo
+AYU-013,Baseline,Tablet,500,93.8,RC-101 (Test)
+AYU-013,Week 2,Tablet,500,132.0,RC-101 (Test)
+AYU-013,Week 4,Tablet,500,79.1,RC-101 (Test)
+AYU-013,Week 8,Tablet,500,93.5,RC-101 (Test)
+AYU-013,Week 12,Tablet,500,94.1,RC-101 (Test)
+AYU-014,Baseline,Churna (Powder),1500,98.3,Placebo
+AYU-014,Week 2,Churna (Powder),1500,82.1,Placebo
+AYU-014,Week 4,Churna (Powder),1500,81.4,Placebo
+AYU-014,Week 8,Churna (Powder),1500,96.2,Placebo
+AYU-014,Week 12,Churna (Powder),1500,94.4,Placebo
+AYU-015,Baseline,Tablet,500,94.0,RC-101 (Test)
+AYU-015,Week 2,Tablet,500,94.8,RC-101 (Test)
+AYU-015,Week 4,Tablet,500,86.6,RC-101 (Test)
+AYU-015,Week 8,Tablet,500,93.9,RC-101 (Test)
+AYU-015,Week 12,Tablet,500,94.3,RC-101 (Test)
+AYU-016,Baseline,Kashayam (Decoction),1500,86.3,Placebo
+AYU-016,Week 2,Kashayam (Decoction),1500,100.0,Placebo
+AYU-016,Week 4,Kashayam (Decoction),1500,95.8,Placebo
+AYU-016,Week 8,Kashayam (Decoction),1500,82.5,Placebo
+AYU-016,Week 12,Kashayam (Decoction),1500,97.3,Placebo
+AYU-017,Baseline,Churna (Powder),1500,84.2,RC-101 (Test)
+AYU-017,Week 2,Churna (Powder),1500,98.3,RC-101 (Test)
+AYU-017,Week 4,Churna (Powder),1500,100.0,RC-101 (Test)
+AYU-017,Week 8,Churna (Powder),1500,85.4,RC-101 (Test)
+AYU-017,Week 12,Churna (Powder),1500,99.7,RC-101 (Test)
+AYU-018,Baseline,Tablet,500,95.3,Placebo
+AYU-018,Week 2,Tablet,500,98.6,Placebo
+AYU-018,Week 4,Tablet,500,100.0,Placebo
+AYU-018,Week 8,Tablet,500,90.0,Placebo
+AYU-018,Week 12,Tablet,500,86.0,Placebo
+AYU-019,Baseline,Tablet,500,84.9,RC-101 (Test)
+AYU-019,Week 2,Tablet,500,85.5,RC-101 (Test)
+AYU-019,Week 4,Tablet,500,91.4,RC-101 (Test)
+AYU-019,Week 8,Tablet,500,94.7,RC-101 (Test)
+AYU-019,Week 12,Tablet,500,94.2,RC-101 (Test)
+AYU-020,Baseline,Churna (Powder),1000,98.6,Placebo
+AYU-020,Week 2,Churna (Powder),1000,92.1,Placebo
+AYU-020,Week 4,Churna (Powder),1000,100.0,Placebo
+AYU-020,Week 8,Churna (Powder),1000,89.9,Placebo
+AYU-020,Week 12,Churna (Powder),1000,100.0,Placebo
+AYU-021,Baseline,Tablet,500,97.0,RC-101 (Test)
+AYU-021,Week 2,Tablet,500,85.1,RC-101 (Test)
+AYU-021,Week 4,Tablet,500,83.4,RC-101 (Test)
+AYU-021,Week 8,Tablet,500,95.9,RC-101 (Test)
+AYU-021,Week 12,Tablet,500,90.2,RC-101 (Test)
+AYU-022,Baseline,Kashayam (Decoction),1000,97.7,Placebo
+AYU-022,Week 2,Kashayam (Decoction),1000,95.8,Placebo
+AYU-022,Week 4,Kashayam (Decoction),1000,91.4,Placebo
+AYU-022,Week 8,Kashayam (Decoction),1000,85.2,Placebo
+AYU-022,Week 12,Kashayam (Decoction),1000,79.9,Placebo
+AYU-023,Baseline,Kashayam (Decoction),1500,88.4,RC-101 (Test)
+AYU-023,Week 2,Kashayam (Decoction),1500,98.9,RC-101 (Test)
+AYU-023,Week 4,Kashayam (Decoction),1500,93.7,RC-101 (Test)
+AYU-023,Week 8,Kashayam (Decoction),1500,82.0,RC-101 (Test)
+AYU-023,Week 12,Kashayam (Decoction),1500,93.4,RC-101 (Test)
+AYU-024,Baseline,Tablet,500,95.1,Placebo
+AYU-024,Week 2,Tablet,500,84.9,Placebo
+AYU-024,Week 4,,500,93.2,Placebo
+AYU-024,Week 8,Tablet,500,92.5,Placebo
+AYU-024,Week 12,Tablet,500,82.9,Placebo
+AYU-025,Baseline,Churna (Powder),1000,94.9,RC-101 (Test)
+AYU-025,Week 2,Churna (Powder),1000,96.5,RC-101 (Test)
+AYU-025,Week 4,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-025,Week 8,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-025,Week 12,Churna (Powder),1000,81.0,RC-101 (Test)
+AYU-026,Baseline,Tablet,500,84.5,Placebo
+AYU-026,Week 2,Tablet,500,96.1,Placebo
+AYU-026,Week 4,Tablet,500,96.1,Placebo
+AYU-026,Week 8,Tablet,500,96.1,Placebo
+AYU-026,Week 12,Tablet,500,100.0,Placebo
+AYU-027,Baseline,Churna (Powder),1500,96.6,RC-101 (Test)
+AYU-027,Week 2,Churna (Powder),1500,100.0,RC-101 (Test)
+AYU-027,Week 4,Churna (Powder),1500,99.6,RC-101 (Test)
+AYU-027,Week 8,Churna (Powder),1500,97.2,RC-101 (Test)
+AYU-027,Week 12,Churna (Powder),1500,89.5,RC-101 (Test)
+AYU-028,Baseline,Tablet,500,98.1,Placebo
+AYU-028,Week 2,Tablet,500,85.8,Placebo
+AYU-028,Week 4,Tablet,500,90.1,Placebo
+AYU-028,Week 8,Tablet,500,88.1,Placebo
+AYU-028,Week 12,Tablet,500,92.7,Placebo
+AYU-029,Baseline,Churna (Powder),1500,100.0,RC-101 (Test)
+AYU-029,Week 2,Churna (Powder),1500,77.1,RC-101 (Test)
+AYU-029,Week 4,Churna (Powder),1500,97.5,RC-101 (Test)
+AYU-029,Week 8,Churna (Powder),1500,79.1,RC-101 (Test)
+AYU-029,Week 12,Churna (Powder),1500,88.2,RC-101 (Test)
+AYU-030,Baseline,Kashayam (Decoction),1000,100.0,Placebo
+AYU-030,Week 2,Kashayam (Decoction),1000,92.5,Placebo
+AYU-030,Week 4,Kashayam (Decoction),1000,83.4,Placebo
+AYU-030,Week 8,Kashayam (Decoction),1000,86.3,Placebo
+AYU-030,Week 12,Kashayam (Decoction),1000,97.4,Placebo
+AYU-031,Baseline,Kashayam (Decoction),1500,86.2,RC-101 (Test)
+AYU-031,Week 2,Kashayam (Decoction),1500,93.7,RC-101 (Test)
+AYU-031,Week 4,Kashayam (Decoction),1500,92.4,RC-101 (Test)
+AYU-031,Week 8,Kashayam (Decoction),1500,86.8,RC-101 (Test)
+AYU-031,Week 12,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-032,Baseline,Kashayam (Decoction),1000,97.1,Placebo
+AYU-032,Week 2,Kashayam (Decoction),1000,75.8,Placebo
+AYU-032,Week 4,Kashayam (Decoction),1000,93.5,Placebo
+AYU-032,Week 8,Kashayam (Decoction),1000,86.7,Placebo
+AYU-032,Week 12,Kashayam (Decoction),1000,98.8,Placebo
+AYU-033,Baseline,Tablet,500,85.7,RC-101 (Test)
+AYU-033,Week 2,Tablet,500,91.1,RC-101 (Test)
+AYU-033,Week 4,Tablet,500,96.0,RC-101 (Test)
+AYU-033,Week 8,Tablet,500,98.9,RC-101 (Test)
+AYU-033,Week 12,Tablet,500,82.4,RC-101 (Test)
+AYU-034,Baseline,Churna (Powder),1000,89.3,Placebo
+AYU-034,Week 2,Churna (Powder),1000,88.2,Placebo
+AYU-034,Week 4,Churna (Powder),1000,86.8,Placebo
+AYU-034,Week 8,Churna (Powder),1000,100.0,Placebo
+AYU-034,Week 12,Churna (Powder),1000,95.2,Placebo
+AYU-035,Baseline,Tablet,500,81.9,RC-101 (Test)
+AYU-035,Week 2,Tablet,500,99.3,RC-101 (Test)
+AYU-035,Week 4,Tablet,500,100.0,RC-101 (Test)
+AYU-035,Week 8,Tablet,500,100.0,RC-101 (Test)
+AYU-035,Week 12,Tablet,500,79.8,RC-101 (Test)
+AYU-036,Baseline,Kashayam (Decoction),1000,88.1,Placebo
+AYU-036,Week 2,Kashayam (Decoction),1000,100.0,Placebo
+AYU-036,Week 4,Kashayam (Decoction),1000,86.3,Placebo
+AYU-036,Week 8,Kashayam (Decoction),1000,95.6,Placebo
+AYU-036,Week 12,Kashayam (Decoction),1000,98.2,Placebo
+AYU-037,Baseline,Churna (Powder),1500,84.6,RC-101 (Test)
+AYU-037,Week 2,Churna (Powder),1500,91.5,RC-101 (Test)
+AYU-037,Week 4,Churna (Powder),1500,66.1,RC-101 (Test)
+AYU-037,Week 8,Churna (Powder),1500,83.8,RC-101 (Test)
+AYU-037,Week 12,Churna (Powder),1500,110.0,RC-101 (Test)
+AYU-038,Baseline,Kashayam (Decoction),1000,82.0,Placebo
+AYU-038,Week 2,Kashayam (Decoction),1000,100.0,Placebo
+AYU-038,Week 4,Kashayam (Decoction),1000,80.6,Placebo
+AYU-038,Week 8,Kashayam (Decoction),1000,88.5,Placebo
+AYU-038,Week 12,Kashayam (Decoction),1000,93.0,Placebo
+AYU-039,Baseline,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-039,Week 2,,1500,80.5,RC-101 (Test)
+AYU-039,Week 4,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-039,Week 8,Kashayam (Decoction),1500,92.1,RC-101 (Test)
+AYU-039,Week 12,Kashayam (Decoction),1500,84.1,RC-101 (Test)
+AYU-040,Baseline,Tablet,500,95.7,Placebo
+AYU-040,Week 2,Tablet,500,93.6,Placebo
+AYU-040,Week 4,Tablet,500,87.2,Placebo
+AYU-040,Week 8,Tablet,500,92.6,Placebo
+AYU-040,Week 12,Tablet,500,88.9,Placebo
+AYU-041,Baseline,Kashayam (Decoction),1500,92.9,RC-101 (Test)
+AYU-041,Week 2,Kashayam (Decoction),1500,97.3,RC-101 (Test)
+AYU-041,Week 4,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-041,Week 8,Kashayam (Decoction),1500,82.1,RC-101 (Test)
+AYU-041,Week 12,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-042,Baseline,Kashayam (Decoction),1500,76.4,Placebo
+AYU-042,Week 2,Kashayam (Decoction),1500,90.8,Placebo
+AYU-042,Week 4,Kashayam (Decoction),1500,96.7,Placebo
+AYU-042,Week 8,Kashayam (Decoction),1500,94.2,Placebo
+AYU-042,Week 12,Kashayam (Decoction),1500,87.0,Placebo
+AYU-043,Baseline,Churna (Powder),1000,90.3,RC-101 (Test)
+AYU-043,Week 2,Churna (Powder),1000,88.1,RC-101 (Test)
+AYU-043,Week 4,Churna (Powder),1000,87.3,RC-101 (Test)
+AYU-043,Week 8,Churna (Powder),1000,98.8,RC-101 (Test)
+AYU-043,Week 12,Churna (Powder),1000,94.9,RC-101 (Test)
+AYU-044,Baseline,Tablet,500,86.5,Placebo
+AYU-044,Week 2,Tablet,500,99.2,Placebo
+AYU-044,Week 4,Tablet,500,94.5,Placebo
+AYU-044,Week 8,,500,98.5,Placebo
+AYU-044,Week 12,Tablet,500,97.0,Placebo
+AYU-045,Baseline,Kashayam (Decoction),1500,85.4,RC-101 (Test)
+AYU-045,Week 2,Kashayam (Decoction),1500,87.5,RC-101 (Test)
+AYU-045,Week 4,Kashayam (Decoction),1500,98.0,RC-101 (Test)
+AYU-045,Week 8,Kashayam (Decoction),1500,96.9,RC-101 (Test)
+AYU-045,Week 12,Kashayam (Decoction),1500,91.8,RC-101 (Test)
+AYU-046,Baseline,Churna (Powder),1000,92.9,Placebo
+AYU-046,Week 2,Churna (Powder),1000,100.0,Placebo
+AYU-046,Week 4,Churna (Powder),1000,87.3,Placebo
+AYU-046,Week 8,Churna (Powder),1000,96.4,Placebo
+AYU-046,Week 12,Churna (Powder),1000,90.4,Placebo
+AYU-047,Baseline,Tablet,500,90.3,RC-101 (Test)
+AYU-047,Week 2,Tablet,500,100.0,RC-101 (Test)
+AYU-047,Week 4,Tablet,500,98.6,RC-101 (Test)
+AYU-047,Week 8,Tablet,500,98.5,RC-101 (Test)
+AYU-047,Week 12,Tablet,500,100.0,RC-101 (Test)
+AYU-048,Baseline,Churna (Powder),1000,92.2,Placebo
+AYU-048,Week 2,Churna (Powder),1000,97.5,Placebo
+AYU-048,Week 4,Churna (Powder),1000,89.5,Placebo
+AYU-048,Week 8,Churna (Powder),1000,94.6,Placebo
+AYU-048,Week 12,Churna (Powder),1000,91.0,Placebo
+AYU-049,Baseline,Kashayam (Decoction),1500,92.8,RC-101 (Test)
+AYU-049,Week 2,Kashayam (Decoction),1500,96.8,RC-101 (Test)
+AYU-049,Week 4,Kashayam (Decoction),1500,85.5,RC-101 (Test)
+AYU-049,Week 8,Kashayam (Decoction),1500,100.0,RC-101 (Test)
+AYU-049,Week 12,Kashayam (Decoction),1500,84.0,RC-101 (Test)
+AYU-050,Baseline,Tablet,500,82.3,Placebo
+AYU-050,Week 2,Tablet,500,100.0,Placebo
+AYU-050,Week 4,Tablet,500,98.3,Placebo
+AYU-050,Week 8,Tablet,500,97.0,Placebo
+AYU-050,Week 12,Tablet,500,97.0,Placebo
+AYU-051,Baseline,Kashayam (Decoction),1500,91.9,RC-101 (Test)
+AYU-051,Week 2,Kashayam (Decoction),1500,84.8,RC-101 (Test)
+AYU-051,Week 4,Kashayam (Decoction),1500,92.6,RC-101 (Test)
+AYU-051,Week 8,Kashayam (Decoction),1500,86.6,RC-101 (Test)
+AYU-051,Week 12,Kashayam (Decoction),1500,99.8,RC-101 (Test)
+AYU-052,Baseline,Kashayam (Decoction),1500,90.8,Placebo
+AYU-052,Week 2,Kashayam (Decoction),1500,85.4,Placebo
+AYU-052,Week 4,Kashayam (Decoction),1500,89.4,Placebo
+AYU-052,Week 8,Kashayam (Decoction),1500,95.3,Placebo
+AYU-052,Week 12,Kashayam (Decoction),1500,87.5,Placebo
+AYU-053,Baseline,Kashayam (Decoction),1000,85.4,RC-101 (Test)
+AYU-053,Week 2,Kashayam (Decoction),1000,93.9,RC-101 (Test)
+AYU-053,Week 4,Kashayam (Decoction),1000,94.0,RC-101 (Test)
+AYU-053,Week 8,Kashayam (Decoction),1000,87.9,RC-101 (Test)
+AYU-053,Week 12,Kashayam (Decoction),1000,88.2,RC-101 (Test)
+AYU-054,Baseline,Tablet,500,93.9,Placebo
+AYU-054,Week 2,Tablet,500,80.4,Placebo
+AYU-054,Week 4,Tablet,500,80.7,Placebo
+AYU-054,Week 8,Tablet,500,86.3,Placebo
+AYU-054,Week 12,Tablet,500,90.3,Placebo
+AYU-055,Baseline,Tablet,500,94.5,RC-101 (Test)
+AYU-055,Week 2,Tablet,500,100.0,RC-101 (Test)
+AYU-055,Week 4,Tablet,500,98.9,RC-101 (Test)
+AYU-055,Week 8,Tablet,500,90.7,RC-101 (Test)
+AYU-055,Week 12,Tablet,500,91.8,RC-101 (Test)
+AYU-056,Baseline,Kashayam (Decoction),1000,84.0,Placebo
+AYU-056,Week 2,Kashayam (Decoction),1000,91.9,Placebo
+AYU-056,Week 4,Kashayam (Decoction),1000,89.7,Placebo
+AYU-056,Week 8,Kashayam (Decoction),1000,94.6,Placebo
+AYU-056,Week 12,Kashayam (Decoction),1000,85.4,Placebo
+AYU-057,Baseline,Kashayam (Decoction),1000,96.2,RC-101 (Test)
+AYU-057,Week 2,Kashayam (Decoction),1000,100.0,RC-101 (Test)
+AYU-057,Week 4,Kashayam (Decoction),1000,91.1,RC-101 (Test)
+AYU-057,Week 8,Kashayam (Decoction),1000,95.2,RC-101 (Test)
+AYU-057,Week 12,Kashayam (Decoction),1000,97.5,RC-101 (Test)
+AYU-058,Baseline,Churna (Powder),1000,88.8,Placebo
+AYU-058,Week 2,Churna (Powder),1000,93.8,Placebo
+AYU-058,Week 4,Churna (Powder),1000,92.1,Placebo
+AYU-058,Week 8,Churna (Powder),1000,92.8,Placebo
+AYU-058,Week 12,Churna (Powder),1000,85.8,Placebo
+AYU-059,Baseline,Churna (Powder),1000,92.2,RC-101 (Test)
+AYU-059,Week 2,Churna (Powder),1000,96.0,RC-101 (Test)
+AYU-059,Week 4,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-059,Week 8,Churna (Powder),1000,99.7,RC-101 (Test)
+AYU-059,Week 12,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-060,Baseline,Tablet,500,85.9,Placebo
+AYU-060,Week 2,Tablet,500,99.0,Placebo
+AYU-060,Week 4,Tablet,500,93.5,Placebo
+AYU-060,Week 8,Tablet,500,100.0,Placebo
+AYU-060,Week 12,Tablet,500,85.5,Placebo
+AYU-061,Baseline,Churna (Powder),1500,85.3,RC-101 (Test)
+AYU-061,Week 2,Churna (Powder),1500,87.2,RC-101 (Test)
+AYU-061,Week 4,Churna (Powder),1500,75.0,RC-101 (Test)
+AYU-061,Week 8,Churna (Powder),1500,87.8,RC-101 (Test)
+AYU-061,Week 12,Churna (Powder),1500,85.9,RC-101 (Test)
+AYU-062,Baseline,Tablet,500,93.2,Placebo
+AYU-062,Week 2,Tablet,500,94.7,Placebo
+AYU-062,Week 4,Tablet,500,100.0,Placebo
+AYU-062,Week 8,Tablet,500,99.6,Placebo
+AYU-062,Week 12,Tablet,500,87.4,Placebo
+AYU-063,Baseline,Churna (Powder),1000,84.8,RC-101 (Test)
+AYU-063,Week 2,Churna (Powder),1000,95.9,RC-101 (Test)
+AYU-063,Week 4,Churna (Powder),1000,101.5,RC-101 (Test)
+AYU-063,Week 8,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-063,Week 12,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-064,Baseline,Kashayam (Decoction),1000,88.2,Placebo
+AYU-064,Week 2,Kashayam (Decoction),1000,78.3,Placebo
+AYU-064,Week 4,Kashayam (Decoction),1000,100.0,Placebo
+AYU-064,Week 8,Kashayam (Decoction),1000,91.1,Placebo
+AYU-064,Week 12,Kashayam (Decoction),1000,100.0,Placebo
+AYU-065,Baseline,Kashayam (Decoction),1000,79.2,RC-101 (Test)
+AYU-065,Week 2,Kashayam (Decoction),1000,87.2,RC-101 (Test)
+AYU-065,Week 4,Kashayam (Decoction),1000,92.0,RC-101 (Test)
+AYU-065,Week 8,Kashayam (Decoction),1000,92.4,RC-101 (Test)
+AYU-065,Week 12,Kashayam (Decoction),1000,88.4,RC-101 (Test)
+AYU-066,Baseline,Churna (Powder),1500,97.0,Placebo
+AYU-066,Week 2,Churna (Powder),1500,83.5,Placebo
+AYU-066,Week 4,Churna (Powder),1500,90.9,Placebo
+AYU-066,Week 8,Churna (Powder),1500,93.0,Placebo
+AYU-066,Week 12,Churna (Powder),1500,96.1,Placebo
+AYU-067,Baseline,Kashayam (Decoction),1000,97.7,RC-101 (Test)
+AYU-067,Week 2,Kashayam (Decoction),1000,83.0,RC-101 (Test)
+AYU-067,Week 4,Kashayam (Decoction),1000,79.7,RC-101 (Test)
+AYU-067,Week 8,Kashayam (Decoction),1000,100.0,RC-101 (Test)
+AYU-067,Week 12,Kashayam (Decoction),1000,94.7,RC-101 (Test)
+AYU-068,Baseline,Tablet,500,86.0,Placebo
+AYU-068,Week 2,Tablet,500,100.0,Placebo
+AYU-068,Week 4,Tablet,500,92.9,Placebo
+AYU-068,Week 8,Tablet,500,100.0,Placebo
+AYU-068,Week 12,Tablet,500,92.5,Placebo
+AYU-069,Baseline,Tablet,500,100.0,RC-101 (Test)
+AYU-069,Week 2,Tablet,500,100.0,RC-101 (Test)
+AYU-069,Week 4,Tablet,500,90.0,RC-101 (Test)
+AYU-069,Week 8,Tablet,500,99.8,RC-101 (Test)
+AYU-069,Week 12,Tablet,500,97.2,RC-101 (Test)
+AYU-070,Baseline,Tablet,500,100.0,Placebo
+AYU-070,Week 2,Tablet,500,84.3,Placebo
+AYU-070,Week 4,Tablet,500,97.5,Placebo
+AYU-070,Week 8,Tablet,500,100.0,Placebo
+AYU-070,Week 12,Tablet,500,77.9,Placebo
+AYU-071,Baseline,Churna (Powder),1000,82.5,RC-101 (Test)
+AYU-071,Week 2,Churna (Powder),1000,75.7,RC-101 (Test)
+AYU-071,Week 4,Churna (Powder),1000,89.8,RC-101 (Test)
+AYU-071,Week 8,Churna (Powder),1000,97.7,RC-101 (Test)
+AYU-071,Week 12,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-072,Baseline,Tablet,500,92.6,Placebo
+AYU-072,Week 2,Tablet,500,100.0,Placebo
+AYU-072,Week 4,Tablet,500,81.0,Placebo
+AYU-072,Week 8,Tablet,500,78.4,Placebo
+AYU-072,Week 12,Tablet,500,91.6,Placebo
+AYU-073,Baseline,Kashayam (Decoction),1500,95.1,RC-101 (Test)
+AYU-073,Week 2,Kashayam (Decoction),1500,91.7,RC-101 (Test)
+AYU-073,Week 4,Kashayam (Decoction),1500,75.5,RC-101 (Test)
+AYU-073,Week 8,Kashayam (Decoction),1500,91.3,RC-101 (Test)
+AYU-073,Week 12,Kashayam (Decoction),1500,81.6,RC-101 (Test)
+AYU-074,Baseline,Churna (Powder),1000,97.4,Placebo
+AYU-074,Week 2,Churna (Powder),1000,94.9,Placebo
+AYU-074,Week 4,Churna (Powder),1000,84.5,Placebo
+AYU-074,Week 8,Churna (Powder),1000,87.9,Placebo
+AYU-074,Week 12,Churna (Powder),1000,83.5,Placebo
+AYU-075,Baseline,Churna (Powder),1000,91.5,RC-101 (Test)
+AYU-075,Week 2,Churna (Powder),1000,99.6,RC-101 (Test)
+AYU-075,Week 4,Churna (Powder),1000,84.1,RC-101 (Test)
+AYU-075,Week 8,Churna (Powder),1000,96.0,RC-101 (Test)
+AYU-075,Week 12,Churna (Powder),1000,87.8,RC-101 (Test)
+AYU-076,Baseline,Kashayam (Decoction),1000,85.7,Placebo
+AYU-076,Week 2,Kashayam (Decoction),1000,91.1,Placebo
+AYU-076,Week 4,Kashayam (Decoction),1000,83.7,Placebo
+AYU-076,Week 8,Kashayam (Decoction),1000,87.6,Placebo
+AYU-076,Week 12,Kashayam (Decoction),1000,82.4,Placebo
+AYU-077,Baseline,Churna (Powder),1000,100.0,RC-101 (Test)
+AYU-077,Week 2,Churna (Powder),1000,92.3,RC-101 (Test)
+AYU-077,Week 4,Churna (Powder),1000,86.4,RC-101 (Test)
+AYU-077,Week 8,Churna (Powder),1000,93.7,RC-101 (Test)
+AYU-077,Week 12,Churna (Powder),1000,91.1,RC-101 (Test)
+AYU-078,Baseline,Churna (Powder),1000,90.2,Placebo
+AYU-078,Week 2,Churna (Powder),1000,96.9,Placebo
+AYU-078,Week 4,Churna (Powder),1000,98.1,Placebo
+AYU-078,Week 8,Churna (Powder),1000,87.8,Placebo
+AYU-078,Week 12,Churna (Powder),1000,87.4,Placebo
+AYU-079,Baseline,Tablet,500,89.8,RC-101 (Test)
+AYU-079,Week 2,Tablet,500,73.6,RC-101 (Test)
+AYU-079,Week 4,Tablet,500,79.9,RC-101 (Test)
+AYU-079,Week 8,Tablet,500,100.0,RC-101 (Test)
+AYU-079,Week 12,Tablet,500,100.0,RC-101 (Test)
+AYU-080,Baseline,Churna (Powder),1500,90.0,Placebo
+AYU-080,Week 2,Churna (Powder),1500,96.6,Placebo
+AYU-080,Week 4,Churna (Powder),1500,94.5,Placebo
+AYU-080,Week 8,Churna (Powder),1500,100.0,Placebo
+AYU-080,Week 12,Churna (Powder),1500,100.0,Placebo

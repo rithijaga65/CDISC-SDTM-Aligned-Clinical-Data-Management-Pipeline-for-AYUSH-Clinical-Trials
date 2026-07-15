@@ -1,0 +1,43 @@
+AE_ID,SUBJID,AE_TERM,ONSET_DAY,DURATION_DAYS,SEVERITY,SERIOUS,RELATED_TO_STUDY_DRUG,OUTCOME,REPORTED_DATE_DAY
+AE-0001,AYU-006,Constipation,90,5,Mild,N,Not Related,Resolved,93
+AE-0002,AYU-009,Elevated liver enzymes,70,3,Mild,N,Possibly Related,Resolved,70
+AE-0003,AYU-012,Fatigue,35,13,Moderate,N,Not Related,Ongoing,37
+AE-0004,AYU-013,Constipation,0,5,Moderate,N,Related,Resolving,3
+AE-0005,AYU-013,Elevated liver enzymes,44,6,Mild,N,Not Related,Resolving,46
+AE-0006,AYU-013,Fatigue,24,12,Mild,N,Related,Resolving,24
+AE-0007,AYU-016,Fatigue,40,12,Mild,N,Not Related,Ongoing,41
+AE-0008,AYU-018,Skin rash,63,1,Mild,N,Related,Resolving,63
+AE-0009,AYU-019,Headache,67,8,Mild,N,Not Related,Ongoing,68
+AE-0010,AYU-021,Dizziness,9,8,Moderate,N,Not Related,Ongoing,12
+AE-0011,AYU-024,Elevated liver enzymes,83,2,Moderate,N,Not Related,Resolving,86
+AE-0012,AYU-026,Diarrhoea,69,1,Mild,N,Possibly Related,Ongoing,71
+AE-0013,AYU-027,Mild GI upset,29,12,Mild,N,Possibly Related,Ongoing,29
+AE-0014,AYU-028,Nausea,56,3,Mild,N,Related,Resolving,56
+AE-0015,AYU-031,Headache,37,6,Mild,N,Related,Ongoing,40
+AE-0016,AYU-032,Headache,72,11,Moderate,N,Related,Resolved,75
+AE-0017,AYU-035,Headache,79,11,Mild,N,Related,Resolving,81
+AE-0018,AYU-036,Constipation,58,-1,Severe,Y,Not Related,Ongoing,63
+AE-0019,AYU-036,Dizziness,9,8,Severe,Y,Possibly Related,Resolving,14
+AE-0020,AYU-036,Fatigue,58,14,Mild,N,Not Related,Resolved,59
+AE-0021,AYU-037,Dizziness,48,10,Mild,N,Possibly Related,Resolving,48
+AE-0022,AYU-039,Nausea,84,7,Mild,N,Possibly Related,Ongoing,87
+AE-0023,AYU-045,Skin rash,36,13,Moderate,N,Related,Ongoing,37
+AE-0024,AYU-048,Headache,79,5,Mild,N,Possibly Related,Resolved,79
+AE-0025,AYU-049,Skin rash,39,13,Mild,N,Possibly Related,Resolved,39
+AE-0026,AYU-051,Headache,37,6,Moderate,N,Related,Resolved,39
+AE-0027,AYU-053,Headache,67,9,Moderate,N,Not Related,Resolving,69
+AE-0028,AYU-054,Mild GI upset,43,13,Mild,N,Related,Resolved,46
+AE-0029,AYU-058,Fatigue,71,6,Mild,N,Related,Resolving,71
+AE-0030,AYU-058,Dizziness,58,6,Mild,N,Possibly Related,Resolving,60
+AE-0031,AYU-060,Nausea,13,-3,Mild,N,Possibly Related,Ongoing,15
+AE-0032,AYU-063,Constipation,78,4,Mild,N,Possibly Related,Resolving,81
+AE-0033,AYU-065,Nausea,14,3,Mild,N,Not Related,Resolving,14
+AE-0034,AYU-065,Headache,12,4,Moderate,N,Not Related,Resolving,14
+AE-0035,AYU-069,Elevated liver enzymes,85,12,,N,Not Related,Ongoing,86
+AE-0036,AYU-070,Constipation,53,11,Mild,N,Possibly Related,Resolving,55
+AE-0037,AYU-070,Constipation,4,12,Mild,N,Not Related,Resolved,6
+AE-0038,AYU-073,Skin rash,12,11,Mild,N,Related,Resolving,14
+AE-0039,AYU-073,Constipation,24,2,Moderate,N,Related,Ongoing,25
+AE-0040,AYU-074,Nausea,82,11,Mild,N,Related,Resolving,83
+AE-0041,AYU-075,Mild GI upset,16,13,,N,Possibly Related,Resolved,17
+AE-0042,AYU-077,Nausea,29,6,Moderate,N,Not Related,Resolved,30
