@@ -1,0 +1,43 @@
+STUDYID,DOMAIN,USUBJID,AETERM,AESEV,AESER,AEREL,AEOUT,AESTDY,AEDUR_DAYS
+RC101-OA-P2,AE,RC101-OA-P2-AYU-006,Constipation,Mild,N,Not Related,Resolved,90,5
+RC101-OA-P2,AE,RC101-OA-P2-AYU-009,Elevated liver enzymes,Mild,N,Possibly Related,Resolved,70,3
+RC101-OA-P2,AE,RC101-OA-P2-AYU-012,Fatigue,Moderate,N,Not Related,Ongoing,35,13
+RC101-OA-P2,AE,RC101-OA-P2-AYU-013,Constipation,Moderate,N,Related,Resolving,0,5
+RC101-OA-P2,AE,RC101-OA-P2-AYU-013,Elevated liver enzymes,Mild,N,Not Related,Resolving,44,6
+RC101-OA-P2,AE,RC101-OA-P2-AYU-013,Fatigue,Mild,N,Related,Resolving,24,12
+RC101-OA-P2,AE,RC101-OA-P2-AYU-016,Fatigue,Mild,N,Not Related,Ongoing,40,12
+RC101-OA-P2,AE,RC101-OA-P2-AYU-018,Skin rash,Mild,N,Related,Resolving,63,1
+RC101-OA-P2,AE,RC101-OA-P2-AYU-019,Headache,Mild,N,Not Related,Ongoing,67,8
+RC101-OA-P2,AE,RC101-OA-P2-AYU-021,Dizziness,Moderate,N,Not Related,Ongoing,9,8
+RC101-OA-P2,AE,RC101-OA-P2-AYU-024,Elevated liver enzymes,Moderate,N,Not Related,Resolving,83,2
+RC101-OA-P2,AE,RC101-OA-P2-AYU-026,Diarrhoea,Mild,N,Possibly Related,Ongoing,69,1
+RC101-OA-P2,AE,RC101-OA-P2-AYU-027,Mild GI upset,Mild,N,Possibly Related,Ongoing,29,12
+RC101-OA-P2,AE,RC101-OA-P2-AYU-028,Nausea,Mild,N,Related,Resolving,56,3
+RC101-OA-P2,AE,RC101-OA-P2-AYU-031,Headache,Mild,N,Related,Ongoing,37,6
+RC101-OA-P2,AE,RC101-OA-P2-AYU-032,Headache,Moderate,N,Related,Resolved,72,11
+RC101-OA-P2,AE,RC101-OA-P2-AYU-035,Headache,Mild,N,Related,Resolving,79,11
+RC101-OA-P2,AE,RC101-OA-P2-AYU-036,Constipation,Severe,Y,Not Related,Ongoing,58,-1
+RC101-OA-P2,AE,RC101-OA-P2-AYU-036,Dizziness,Severe,Y,Possibly Related,Resolving,9,8
+RC101-OA-P2,AE,RC101-OA-P2-AYU-036,Fatigue,Mild,N,Not Related,Resolved,58,14
+RC101-OA-P2,AE,RC101-OA-P2-AYU-037,Dizziness,Mild,N,Possibly Related,Resolving,48,10
+RC101-OA-P2,AE,RC101-OA-P2-AYU-039,Nausea,Mild,N,Possibly Related,Ongoing,84,7
+RC101-OA-P2,AE,RC101-OA-P2-AYU-045,Skin rash,Moderate,N,Related,Ongoing,36,13
+RC101-OA-P2,AE,RC101-OA-P2-AYU-048,Headache,Mild,N,Possibly Related,Resolved,79,5
+RC101-OA-P2,AE,RC101-OA-P2-AYU-049,Skin rash,Mild,N,Possibly Related,Resolved,39,13
+RC101-OA-P2,AE,RC101-OA-P2-AYU-051,Headache,Moderate,N,Related,Resolved,37,6
+RC101-OA-P2,AE,RC101-OA-P2-AYU-053,Headache,Moderate,N,Not Related,Resolving,67,9
+RC101-OA-P2,AE,RC101-OA-P2-AYU-054,Mild GI upset,Mild,N,Related,Resolved,43,13
+RC101-OA-P2,AE,RC101-OA-P2-AYU-058,Fatigue,Mild,N,Related,Resolving,71,6
+RC101-OA-P2,AE,RC101-OA-P2-AYU-058,Dizziness,Mild,N,Possibly Related,Resolving,58,6
+RC101-OA-P2,AE,RC101-OA-P2-AYU-060,Nausea,Mild,N,Possibly Related,Ongoing,13,-3
+RC101-OA-P2,AE,RC101-OA-P2-AYU-063,Constipation,Mild,N,Possibly Related,Resolving,78,4
+RC101-OA-P2,AE,RC101-OA-P2-AYU-065,Nausea,Mild,N,Not Related,Resolving,14,3
+RC101-OA-P2,AE,RC101-OA-P2-AYU-065,Headache,Moderate,N,Not Related,Resolving,12,4
+RC101-OA-P2,AE,RC101-OA-P2-AYU-069,Elevated liver enzymes,,N,Not Related,Ongoing,85,12
+RC101-OA-P2,AE,RC101-OA-P2-AYU-070,Constipation,Mild,N,Possibly Related,Resolving,53,11
+RC101-OA-P2,AE,RC101-OA-P2-AYU-070,Constipation,Mild,N,Not Related,Resolved,4,12
+RC101-OA-P2,AE,RC101-OA-P2-AYU-073,Skin rash,Mild,N,Related,Resolving,12,11
+RC101-OA-P2,AE,RC101-OA-P2-AYU-073,Constipation,Moderate,N,Related,Ongoing,24,2
+RC101-OA-P2,AE,RC101-OA-P2-AYU-074,Nausea,Mild,N,Related,Resolving,82,11
+RC101-OA-P2,AE,RC101-OA-P2-AYU-075,Mild GI upset,,N,Possibly Related,Resolved,16,13
+RC101-OA-P2,AE,RC101-OA-P2-AYU-077,Nausea,Moderate,N,Not Related,Resolved,29,6

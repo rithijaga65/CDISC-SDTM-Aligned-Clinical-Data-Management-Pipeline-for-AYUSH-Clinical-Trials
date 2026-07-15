@@ -1,0 +1,73 @@
+QUERY_ID,DOMAIN,SUBJID,FIELD,ISSUE,STATUS,SEVERITY,DATE_RAISED
+Q-0001,DM,AYU-028,AGE,Missing value,Open,Query,2026-07-12
+Q-0002,DM,AYU-032,AGE,Missing value,Open,Query,2026-07-12
+Q-0003,DM,AYU-064,AGE,Missing value,Open,Query,2026-07-12
+Q-0004,DM,AYU-026,AGE,Age 22.0 outside protocol range (35-75),Open,Protocol Deviation,2026-07-12
+Q-0005,DM,AYU-031,AGE,Age 81.0 outside protocol range (35-75),Open,Protocol Deviation,2026-07-12
+Q-0006,DM,AYU-006,SUBJID,Duplicate subject record found in database,Open,Critical,2026-07-12
+Q-0007,DM,AYU-013,SEX,Invalid value 'M ale' - expected Male/Female,Open,Query,2026-07-12
+Q-0008,EX,AYU-002,COMPLIANCE_PCT,Compliance 145.0% exceeds 100% at visit Week 2,Open,Query,2026-07-12
+Q-0009,EX,AYU-013,COMPLIANCE_PCT,Compliance 132.0% exceeds 100% at visit Week 2,Open,Query,2026-07-12
+Q-0010,EX,AYU-037,COMPLIANCE_PCT,Compliance 110.0% exceeds 100% at visit Week 12,Open,Query,2026-07-12
+Q-0011,EX,AYU-063,COMPLIANCE_PCT,Compliance 101.5% exceeds 100% at visit Week 4,Open,Query,2026-07-12
+Q-0012,EX,AYU-024,DOSE_FORM,Missing dose form at visit Week 4,Open,Query,2026-07-12
+Q-0013,EX,AYU-039,DOSE_FORM,Missing dose form at visit Week 2,Open,Query,2026-07-12
+Q-0014,EX,AYU-044,DOSE_FORM,Missing dose form at visit Week 8,Open,Query,2026-07-12
+Q-0015,VS,AYU-002,SYSBP,Systolic BP 60.0 mmHg at Week 4 is physiologically implausible,Open,Query,2026-07-12
+Q-0016,VS,AYU-003,SYSBP,Systolic BP 220.0 mmHg at Baseline is physiologically implausible,Open,Query,2026-07-12
+Q-0017,VS,AYU-012,SYSBP,Systolic BP 250.0 mmHg at Week 2 is physiologically implausible,Open,Query,2026-07-12
+Q-0018,VS,AYU-020,SYSBP,Systolic BP 55.0 mmHg at Baseline is physiologically implausible,Open,Query,2026-07-12
+Q-0019,VS,AYU-014,TEMP_C,"Temperature 101.4 recorded — likely entered in Fahrenheit, not Celsius",Open,Query,2026-07-12
+Q-0020,VS,AYU-027,TEMP_C,"Temperature 99.1 recorded — likely entered in Fahrenheit, not Celsius",Open,Query,2026-07-12
+Q-0021,VS,AYU-037,TEMP_C,"Temperature 98.6 recorded — likely entered in Fahrenheit, not Celsius",Open,Query,2026-07-12
+Q-0022,VS,AYU-009,WEIGHT_KG,Missing weight at visit Screening,Open,Query,2026-07-12
+Q-0023,VS,AYU-056,WEIGHT_KG,Missing weight at visit Baseline,Open,Query,2026-07-12
+Q-0024,VS,AYU-071,WEIGHT_KG,Missing weight at visit Week 4,Open,Query,2026-07-12
+Q-0025,VS,AYU-071,WEIGHT_KG,Missing weight at visit Week 12,Open,Query,2026-07-12
+Q-0026,VS,AYU-080,WEIGHT_KG,Missing weight at visit Week 12,Open,Query,2026-07-12
+Q-0027,VS,AYU-001,VISIT_DATE,Baseline visit date (2025-06-02) precedes enrollment date (2025-06-03),Open,Critical,2026-07-12
+Q-0028,VS,AYU-002,VISIT_DATE,Baseline visit date (2025-03-16) precedes enrollment date (2025-03-18),Open,Critical,2026-07-12
+Q-0029,VS,AYU-003,VISIT_DATE,Baseline visit date (2025-06-01) precedes enrollment date (2025-06-03),Open,Critical,2026-07-12
+Q-0030,VS,AYU-004,VISIT_DATE,Baseline visit date (2025-04-22) precedes enrollment date (2025-04-24),Open,Critical,2026-07-12
+Q-0031,VS,AYU-007,VISIT_DATE,Baseline visit date (2025-04-25) precedes enrollment date (2025-04-27),Open,Critical,2026-07-12
+Q-0032,VS,AYU-009,VISIT_DATE,Baseline visit date (2025-04-04) precedes enrollment date (2025-04-05),Open,Critical,2026-07-12
+Q-0033,VS,AYU-014,VISIT_DATE,Baseline visit date (2025-05-17) precedes enrollment date (2025-05-19),Open,Critical,2026-07-12
+Q-0034,VS,AYU-016,VISIT_DATE,Baseline visit date (2025-03-10) precedes enrollment date (2025-03-11),Open,Critical,2026-07-12
+Q-0035,VS,AYU-023,VISIT_DATE,Baseline visit date (2025-04-10) precedes enrollment date (2025-04-11),Open,Critical,2026-07-12
+Q-0036,VS,AYU-028,VISIT_DATE,Baseline visit date (2025-03-31) precedes enrollment date (2025-04-01),Open,Critical,2026-07-12
+Q-0037,VS,AYU-030,VISIT_DATE,Baseline visit date (2025-03-28) precedes enrollment date (2025-03-29),Open,Critical,2026-07-12
+Q-0038,VS,AYU-033,VISIT_DATE,Baseline visit date (2024-01-15) precedes enrollment date (2025-03-09),Open,Critical,2026-07-12
+Q-0039,VS,AYU-034,VISIT_DATE,Baseline visit date (2025-04-28) precedes enrollment date (2025-04-29),Open,Critical,2026-07-12
+Q-0040,VS,AYU-040,VISIT_DATE,Baseline visit date (2025-06-04) precedes enrollment date (2025-06-06),Open,Critical,2026-07-12
+Q-0041,VS,AYU-043,VISIT_DATE,Baseline visit date (2025-04-10) precedes enrollment date (2025-04-11),Open,Critical,2026-07-12
+Q-0042,VS,AYU-046,VISIT_DATE,Baseline visit date (2024-01-15) precedes enrollment date (2025-06-02),Open,Critical,2026-07-12
+Q-0043,VS,AYU-051,VISIT_DATE,Baseline visit date (2025-04-07) precedes enrollment date (2025-04-09),Open,Critical,2026-07-12
+Q-0044,VS,AYU-053,VISIT_DATE,Baseline visit date (2025-03-31) precedes enrollment date (2025-04-01),Open,Critical,2026-07-12
+Q-0045,VS,AYU-055,VISIT_DATE,Baseline visit date (2025-03-27) precedes enrollment date (2025-03-29),Open,Critical,2026-07-12
+Q-0046,VS,AYU-061,VISIT_DATE,Baseline visit date (2025-06-07) precedes enrollment date (2025-06-09),Open,Critical,2026-07-12
+Q-0047,VS,AYU-062,VISIT_DATE,Baseline visit date (2025-03-12) precedes enrollment date (2025-03-13),Open,Critical,2026-07-12
+Q-0048,VS,AYU-065,VISIT_DATE,Baseline visit date (2025-04-20) precedes enrollment date (2025-04-21),Open,Critical,2026-07-12
+Q-0049,VS,AYU-066,VISIT_DATE,Baseline visit date (2025-03-31) precedes enrollment date (2025-04-01),Open,Critical,2026-07-12
+Q-0050,VS,AYU-073,VISIT_DATE,Baseline visit date (2025-06-22) precedes enrollment date (2025-06-24),Open,Critical,2026-07-12
+Q-0051,VS,AYU-075,VISIT_DATE,Baseline visit date (2024-01-15) precedes enrollment date (2025-04-06),Open,Critical,2026-07-12
+Q-0052,VS,AYU-076,VISIT_DATE,Baseline visit date (2025-03-23) precedes enrollment date (2025-03-25),Open,Critical,2026-07-12
+Q-0053,VS,AYU-077,VISIT_DATE,Baseline visit date (2025-05-12) precedes enrollment date (2025-05-14),Open,Critical,2026-07-12
+Q-0054,LB,AYU-023,ALT_U_L,"ALT 210.0 U/L (>3x ULN) at Baseline — possible hepatotoxicity signal, review for herbal-induced liver injury",Open,Safety Signal,2026-07-12
+Q-0055,LB,AYU-067,ALT_U_L,"ALT 180.0 U/L (>3x ULN) at Week 4 — possible hepatotoxicity signal, review for herbal-induced liver injury",Open,Safety Signal,2026-07-12
+Q-0056,LB,AYU-071,ALT_U_L,"ALT 150.0 U/L (>3x ULN) at Week 4 — possible hepatotoxicity signal, review for herbal-induced liver injury",Open,Safety Signal,2026-07-12
+Q-0057,LB,AYU-055,CREATININE_MG_DL,Negative creatinine value (-1.1) is not physically possible,Open,Critical,2026-07-12
+Q-0058,LB,AYU-056,CREATININE_MG_DL,Negative creatinine value (-0.5) is not physically possible,Open,Critical,2026-07-12
+Q-0059,LB,AYU-001,MARKER_COMPOUND_NG_ML,Missing phytochemical marker compound level at Baseline,Open,Query,2026-07-12
+Q-0060,LB,AYU-057,MARKER_COMPOUND_NG_ML,Missing phytochemical marker compound level at Screening,Open,Query,2026-07-12
+Q-0061,LB,AYU-063,MARKER_COMPOUND_NG_ML,Missing phytochemical marker compound level at Week 8,Open,Query,2026-07-12
+Q-0062,LB,AYU-078,MARKER_COMPOUND_NG_ML,Missing phytochemical marker compound level at Week 4,Open,Query,2026-07-12
+Q-0063,AE,AYU-036,REPORTED_DATE_DAY,SAE (Constipation) reported 5 days after onset — exceeds 24hr regulatory reporting requirement,Open,Regulatory Breach,2026-07-12
+Q-0064,AE,AYU-036,REPORTED_DATE_DAY,SAE (Dizziness) reported 5 days after onset — exceeds 24hr regulatory reporting requirement,Open,Regulatory Breach,2026-07-12
+Q-0065,AE,AYU-036,DURATION_DAYS,Negative AE duration (-1 days) is not possible,Open,Critical,2026-07-12
+Q-0066,AE,AYU-060,DURATION_DAYS,Negative AE duration (-3 days) is not possible,Open,Critical,2026-07-12
+Q-0067,AE,AYU-069,SEVERITY,Missing AE severity grading,Open,Query,2026-07-12
+Q-0068,AE,AYU-075,SEVERITY,Missing AE severity grading,Open,Query,2026-07-12
+Q-0069,AE/LB,AYU-009,AE_TERM,AE term 'Elevated liver enzymes' recorded but no corresponding ALT elevation found in LB domain — reconciliation discrepancy,Open,Query,2026-07-12
+Q-0070,AE/LB,AYU-013,AE_TERM,AE term 'Elevated liver enzymes' recorded but no corresponding ALT elevation found in LB domain — reconciliation discrepancy,Open,Query,2026-07-12
+Q-0071,AE/LB,AYU-024,AE_TERM,AE term 'Elevated liver enzymes' recorded but no corresponding ALT elevation found in LB domain — reconciliation discrepancy,Open,Query,2026-07-12
+Q-0072,AE/LB,AYU-069,AE_TERM,AE term 'Elevated liver enzymes' recorded but no corresponding ALT elevation found in LB domain — reconciliation discrepancy,Open,Query,2026-07-12

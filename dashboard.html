@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RC-101 AYUSH Trial — CDM Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #f7f7f5; margin: 0; padding: 2rem; color: #1a1a1a; }
+  .container { max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { color: #666; font-size: 14px; margin-bottom: 2rem; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 2rem; }
+  .metric-card { background: #fff; border-radius: 10px; padding: 1rem 1.2rem; border: 1px solid #e5e4e0; }
+  .metric-label { font-size: 13px; color: #666; margin: 0 0 6px; }
+  .metric-value { font-size: 26px; font-weight: 600; margin: 0; }
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 2rem; }
+  .chart-box { background: #fff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e5e4e0; }
+  .chart-title { font-size: 14px; font-weight: 600; margin: 0 0 12px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px; font-size: 12px; color: #555; }
+  .legend span.dot { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+  canvas { max-height: 260px; }
+  table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #e5e4e0; }
+  th, td { text-align: left; padding: 10px 14px; font-size: 13px; border-bottom: 1px solid #eee; }
+  th { background: #1F4E5F; color: #fff; font-weight: 500; }
+  tr:last-child td { border-bottom: none; }
+  .footer-note { font-size: 12px; color: #888; margin-top: 2rem; text-align: center; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>RC-101 AYUSH Trial — Clinical Data Management Dashboard</h1>
+  <p class="subtitle">Protocol RC101-OA-P2 &middot; Illustrative / educational synthetic dataset</p>
+
+  <div class="metrics">
+    <div class="metric-card"><p class="metric-label">Subjects enrolled</p><p class="metric-value">80</p></div>
+    <div class="metric-card"><p class="metric-label">Total queries raised</p><p class="metric-value">72</p></div>
+    <div class="metric-card"><p class="metric-label">Seeded-error detection</p><p class="metric-value">100%</p></div>
+    <div class="metric-card"><p class="metric-label">SAEs (regulatory breach)</p><p class="metric-value">2 / 2</p></div>
+  </div>
+
+  <div class="charts">
+    <div class="chart-box">
+      <p class="chart-title">Queries by severity</p>
+      <div class="legend">
+        <span><span class="dot" style="background:#2a78d6"></span>Query</span>
+        <span><span class="dot" style="background:#e34948"></span>Critical</span>
+        <span><span class="dot" style="background:#eda100"></span>Protocol dev.</span>
+        <span><span class="dot" style="background:#4a3aa7"></span>Safety signal</span>
+        <span><span class="dot" style="background:#e87ba4"></span>Reg. breach</span>
+      </div>
+      <canvas id="sevChart" role="img" aria-label="Bar chart of data queries by severity: Query 33, Critical 32, Protocol deviation 2, Safety signal 3, Regulatory breach 2"></canvas>
+    </div>
+    <div class="chart-box">
+      <p class="chart-title">Queries by domain</p>
+      <div class="legend"><span><span class="dot" style="background:#1baf7a"></span>Query count</span></div>
+      <canvas id="domChart" role="img" aria-label="Bar chart of queries by data domain: Vital signs 39, Lab 9, Demographics 7, Exposure 7, Adverse events 6, AE-Lab reconciliation 4"></canvas>
+    </div>
+  </div>
+
+  <table>
+    <thead><tr><th>Metric</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>Total AEs recorded</td><td>42</td></tr>
+      <tr><td>Total SAEs recorded</td><td>2</td></tr>
+      <tr><td>SAEs reported within 24hr timeline</td><td>0</td></tr>
+      <tr><td>SAEs reported late (regulatory breach)</td><td>2</td></tr>
+      <tr><td>AE-Lab reconciliation discrepancies</td><td>4</td></tr>
+      <tr><td>Randomization balance</td><td>40 RC-101 / 40 Placebo</td></tr>
+    </tbody>
+  </table>
+
+  <p class="footer-note">Generated from synthetic data with 42 deliberately embedded data quality issues — pipeline achieved 100% (42/42) detection. See query_log.csv and pipeline_detection_check.csv for full detail.</p>
+</div>
+
+<script>
+new Chart(document.getElementById('sevChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Query', 'Critical', 'Protocol dev.', 'Safety signal', 'Reg. breach'],
+    datasets: [{ data: [33, 32, 2, 3, 2], backgroundColor: ['#2a78d6','#e34948','#eda100','#4a3aa7','#e87ba4'], borderRadius: 4 }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: { y: { beginAtZero: true, grid: { color: '#eee' } }, x: { grid: { display: false } } }
+  }
+});
+new Chart(document.getElementById('domChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Vital signs', 'Lab', 'Demographics', 'Exposure', 'Adverse events', 'AE-Lab recon.'],
+    datasets: [{ data: [39, 9, 7, 7, 6, 4], backgroundColor: '#1baf7a', borderRadius: 4 }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: { y: { beginAtZero: true, grid: { color: '#eee' } }, x: { grid: { display: false } } }
+  }
+});
+</script>
+</body>
+</html>

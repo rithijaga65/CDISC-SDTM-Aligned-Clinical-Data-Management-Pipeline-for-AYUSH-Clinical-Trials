@@ -1,0 +1,14 @@
+DOMAIN,SEVERITY,COUNT
+AE,Critical,2
+AE,Query,2
+AE,Regulatory Breach,2
+AE/LB,Query,4
+DM,Critical,1
+DM,Protocol Deviation,2
+DM,Query,4
+EX,Query,7
+LB,Critical,2
+LB,Query,4
+LB,Safety Signal,3
+VS,Critical,27
+VS,Query,12

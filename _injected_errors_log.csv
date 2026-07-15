@@ -1,0 +1,45 @@
+DOMAIN,SUBJID,FIELD,ISSUE_DESCRIPTION
+DM,AYU-064,AGE,Missing value
+DM,AYU-028,AGE,Missing value
+DM,AYU-032,AGE,Missing value
+DM,AYU-026,AGE,Out of protocol range (35-75)
+DM,AYU-031,AGE,Out of protocol range (35-75)
+DM,AYU-006,SUBJID,Duplicate subject record
+DM,AYU-013,SEX,Invalid free-text entry
+EX,AYU-037,COMPLIANCE_PCT,Value exceeds 100% (impossible)
+EX,AYU-002,COMPLIANCE_PCT,Value exceeds 100% (impossible)
+EX,AYU-013,COMPLIANCE_PCT,Value exceeds 100% (impossible)
+EX,AYU-063,COMPLIANCE_PCT,Value exceeds 100% (impossible)
+EX,AYU-044,DOSE_FORM,Missing value
+EX,AYU-039,DOSE_FORM,Missing value
+EX,AYU-024,DOSE_FORM,Missing value
+VS,AYU-003,SYSBP,Physiologically implausible value
+VS,AYU-002,SYSBP,Physiologically implausible value
+VS,AYU-012,SYSBP,Physiologically implausible value
+VS,AYU-020,SYSBP,Physiologically implausible value
+VS,AYU-037,TEMP_C,Likely unit error (Fahrenheit entered as Celsius)
+VS,AYU-027,TEMP_C,Likely unit error (Fahrenheit entered as Celsius)
+VS,AYU-014,TEMP_C,Likely unit error (Fahrenheit entered as Celsius)
+VS,AYU-009,WEIGHT_KG,Missing value
+VS,AYU-071,WEIGHT_KG,Missing value
+VS,AYU-071,WEIGHT_KG,Missing value
+VS,AYU-056,WEIGHT_KG,Missing value
+VS,AYU-080,WEIGHT_KG,Missing value
+VS,AYU-046,VISIT_DATE,Visit date precedes enrollment date
+VS,AYU-075,VISIT_DATE,Visit date precedes enrollment date
+VS,AYU-033,VISIT_DATE,Visit date precedes enrollment date
+LB,AYU-067,ALT_U_L,Marked elevation - possible hepatotoxicity signal
+LB,AYU-023,ALT_U_L,Marked elevation - possible hepatotoxicity signal
+LB,AYU-071,ALT_U_L,Marked elevation - possible hepatotoxicity signal
+LB,AYU-056,CREATININE_MG_DL,Negative value (impossible)
+LB,AYU-055,CREATININE_MG_DL,Negative value (impossible)
+LB,AYU-057,MARKER_COMPOUND_NG_ML,Missing value
+LB,AYU-078,MARKER_COMPOUND_NG_ML,Missing value
+LB,AYU-063,MARKER_COMPOUND_NG_ML,Missing value
+LB,AYU-001,MARKER_COMPOUND_NG_ML,Missing value
+AE,AYU-036,REPORTED_DATE_DAY,SAE reported >24hrs after onset (regulatory breach)
+AE,AYU-036,REPORTED_DATE_DAY,SAE reported >24hrs after onset (regulatory breach)
+AE,AYU-060,DURATION_DAYS,Negative duration (impossible)
+AE,AYU-036,DURATION_DAYS,Negative duration (impossible)
+AE,AYU-075,SEVERITY,Missing value
+AE,AYU-069,SEVERITY,Missing value
