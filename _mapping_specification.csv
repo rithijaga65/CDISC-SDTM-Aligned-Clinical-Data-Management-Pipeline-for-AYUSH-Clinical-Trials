@@ -1,0 +1,18 @@
+Source Domain,Raw Variable,Target Domain,SDTM Variable,Mapping Logic / Notes
+DM,SUBJID,DM,SUBJID,Direct copy
+DM,SITEID,DM,SITEID,Direct copy
+DM,AGE,DM,AGE,Direct copy; AGEU set to 'YEARS'
+DM,SEX,DM,SEX,"Recoded Male->M, Female->F; non-conformant values yield null, routed to query log"
+DM,ARM,DM,ARM / ARMCD,Direct copy + coded ARMCD (TEST/PBO)
+DM,ENROLL_DATE,DM,RFSTDTC,"Direct copy, ISO 8601 date"
+DM,PRAKRITI,SUPPDM,QVAL (QNAM=PRAKRITI),Non-standard AYUSH variable; captured via supplemental qualifier since no native CDISC domain exists
+EX,DOSE_FORM,EX,EXDOSFRM,Direct copy
+EX,PLANNED_DOSE_MG,EX,EXDOSE,Direct copy; EXDOSU = 'mg'
+EX,COMPLIANCE_PCT,EX,EXCOMPLY_PCT,Non-standard compliance qualifier retained alongside core EX variables
+VS,SYSBP/DIABP/HR/TEMP_C/WEIGHT_KG,VS,VSTESTCD/VSTEST/VSORRES/VSORRESU,Wide-to-long melt into standard SDTM one-record-per-test structure
+LB,ALT_U_L/AST_U_L/CREATININE.../MARKER_COMPOUND_NG_ML,LB,LBTESTCD/LBTEST/LBORRES/LBORRESU,Wide-to-long melt; phytochemical marker included as a custom LBTESTCD
+AE,AE_TERM,AE,AETERM,Direct copy
+AE,SEVERITY,AE,AESEV,Direct copy
+AE,SERIOUS,AE,AESER,Direct copy (Y/N)
+AE,RELATED_TO_STUDY_DRUG,AE,AEREL,Direct copy
+AE,ONSET_DAY,AE,AESTDY,Direct copy (study day relative to RFSTDTC)

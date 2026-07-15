@@ -1,0 +1,2001 @@
+STUDYID,DOMAIN,USUBJID,VISIT,LBTESTCD,LBTEST,LBORRES,LBORRESU
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Screening,ALT_U_L,Alanine Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Screening,AST_U_L,Aspartate Aminotransferase,8.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Screening,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.05,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Baseline,ALT_U_L,Alanine Aminotransferase,18.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Baseline,AST_U_L,Aspartate Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Baseline,CREATININE_MG_DL,Creatinine,1.31,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.1,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 4,ALT_U_L,Alanine Aminotransferase,40.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 4,AST_U_L,Aspartate Aminotransferase,39.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 4,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,76.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 8,ALT_U_L,Alanine Aminotransferase,40.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 8,AST_U_L,Aspartate Aminotransferase,30.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 8,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 12,ALT_U_L,Alanine Aminotransferase,30.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 12,AST_U_L,Aspartate Aminotransferase,36.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 12,CREATININE_MG_DL,Creatinine,1.08,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-001,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,65.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Screening,ALT_U_L,Alanine Aminotransferase,30.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Screening,AST_U_L,Aspartate Aminotransferase,30.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Screening,CREATININE_MG_DL,Creatinine,1.19,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Baseline,ALT_U_L,Alanine Aminotransferase,23.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Baseline,AST_U_L,Aspartate Aminotransferase,15.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Baseline,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,5.11,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,17.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 4,ALT_U_L,Alanine Aminotransferase,27.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 4,AST_U_L,Aspartate Aminotransferase,30.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 4,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.96,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,25.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 8,ALT_U_L,Alanine Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 8,AST_U_L,Aspartate Aminotransferase,20.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 8,CREATININE_MG_DL,Creatinine,0.46,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 12,ALT_U_L,Alanine Aminotransferase,28.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 12,AST_U_L,Aspartate Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 12,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-002,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Screening,ALT_U_L,Alanine Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Screening,AST_U_L,Aspartate Aminotransferase,35.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Screening,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,25.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Baseline,ALT_U_L,Alanine Aminotransferase,30.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Baseline,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Baseline,CREATININE_MG_DL,Creatinine,0.77,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.12,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 4,ALT_U_L,Alanine Aminotransferase,45.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 4,AST_U_L,Aspartate Aminotransferase,35.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 4,CREATININE_MG_DL,Creatinine,1.28,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.63,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 8,ALT_U_L,Alanine Aminotransferase,17.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 8,AST_U_L,Aspartate Aminotransferase,21.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 8,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.59,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 12,ALT_U_L,Alanine Aminotransferase,36.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 12,AST_U_L,Aspartate Aminotransferase,30.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 12,CREATININE_MG_DL,Creatinine,1.36,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-003,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,63.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Screening,ALT_U_L,Alanine Aminotransferase,37.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Screening,AST_U_L,Aspartate Aminotransferase,19.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Screening,CREATININE_MG_DL,Creatinine,1.1,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Baseline,ALT_U_L,Alanine Aminotransferase,21.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Baseline,AST_U_L,Aspartate Aminotransferase,21.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Baseline,CREATININE_MG_DL,Creatinine,1.31,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.1,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 4,ALT_U_L,Alanine Aminotransferase,21.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 4,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 4,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 8,ALT_U_L,Alanine Aminotransferase,28.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 8,AST_U_L,Aspartate Aminotransferase,26.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 8,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.57,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 12,ALT_U_L,Alanine Aminotransferase,33.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 12,AST_U_L,Aspartate Aminotransferase,19.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 12,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-004,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Screening,ALT_U_L,Alanine Aminotransferase,17.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Screening,AST_U_L,Aspartate Aminotransferase,28.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Screening,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.16,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,73.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Baseline,ALT_U_L,Alanine Aminotransferase,20.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Baseline,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Baseline,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 4,ALT_U_L,Alanine Aminotransferase,32.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 4,AST_U_L,Aspartate Aminotransferase,21.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 4,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.99,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 8,ALT_U_L,Alanine Aminotransferase,30.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 8,AST_U_L,Aspartate Aminotransferase,23.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 8,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.95,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 12,ALT_U_L,Alanine Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 12,AST_U_L,Aspartate Aminotransferase,24.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 12,CREATININE_MG_DL,Creatinine,0.7,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.06,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-005,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Screening,ALT_U_L,Alanine Aminotransferase,19.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Screening,AST_U_L,Aspartate Aminotransferase,27.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Screening,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Baseline,ALT_U_L,Alanine Aminotransferase,31.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Baseline,AST_U_L,Aspartate Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Baseline,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.11,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,47.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 4,ALT_U_L,Alanine Aminotransferase,30.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 4,AST_U_L,Aspartate Aminotransferase,26.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 4,CREATININE_MG_DL,Creatinine,0.48,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,78.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 8,ALT_U_L,Alanine Aminotransferase,25.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 8,AST_U_L,Aspartate Aminotransferase,20.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 8,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.47,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 12,ALT_U_L,Alanine Aminotransferase,17.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 12,AST_U_L,Aspartate Aminotransferase,31.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 12,CREATININE_MG_DL,Creatinine,1.02,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.93,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-006,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Screening,ALT_U_L,Alanine Aminotransferase,36.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Screening,AST_U_L,Aspartate Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Screening,CREATININE_MG_DL,Creatinine,0.67,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Baseline,ALT_U_L,Alanine Aminotransferase,28.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Baseline,AST_U_L,Aspartate Aminotransferase,26.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Baseline,CREATININE_MG_DL,Creatinine,0.87,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 4,ALT_U_L,Alanine Aminotransferase,19.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 4,AST_U_L,Aspartate Aminotransferase,23.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 4,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.58,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 8,ALT_U_L,Alanine Aminotransferase,21.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 8,AST_U_L,Aspartate Aminotransferase,43.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 8,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.63,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 12,ALT_U_L,Alanine Aminotransferase,32.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 12,AST_U_L,Aspartate Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 12,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-007,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Screening,ALT_U_L,Alanine Aminotransferase,25.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Screening,AST_U_L,Aspartate Aminotransferase,22.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Screening,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.22,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Baseline,ALT_U_L,Alanine Aminotransferase,36.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Baseline,AST_U_L,Aspartate Aminotransferase,36.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Baseline,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.1,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 4,ALT_U_L,Alanine Aminotransferase,30.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 4,AST_U_L,Aspartate Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 4,CREATININE_MG_DL,Creatinine,1.17,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 8,ALT_U_L,Alanine Aminotransferase,16.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 8,AST_U_L,Aspartate Aminotransferase,16.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 8,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,60.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 12,ALT_U_L,Alanine Aminotransferase,26.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 12,AST_U_L,Aspartate Aminotransferase,48.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 12,CREATININE_MG_DL,Creatinine,1.36,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.88,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-008,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Screening,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Screening,AST_U_L,Aspartate Aminotransferase,37.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Screening,CREATININE_MG_DL,Creatinine,0.57,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Baseline,ALT_U_L,Alanine Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Baseline,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Baseline,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.66,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,10.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 4,ALT_U_L,Alanine Aminotransferase,34.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 4,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 4,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.27,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 8,ALT_U_L,Alanine Aminotransferase,27.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 8,AST_U_L,Aspartate Aminotransferase,22.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 8,CREATININE_MG_DL,Creatinine,0.87,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.66,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,24.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 12,ALT_U_L,Alanine Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 12,AST_U_L,Aspartate Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 12,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.3,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-009,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,30.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Screening,ALT_U_L,Alanine Aminotransferase,26.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Screening,AST_U_L,Aspartate Aminotransferase,10.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Screening,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,22.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Baseline,ALT_U_L,Alanine Aminotransferase,23.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Baseline,AST_U_L,Aspartate Aminotransferase,28.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Baseline,CREATININE_MG_DL,Creatinine,1.15,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.56,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 4,ALT_U_L,Alanine Aminotransferase,12.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 4,AST_U_L,Aspartate Aminotransferase,26.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 4,CREATININE_MG_DL,Creatinine,1.31,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 8,ALT_U_L,Alanine Aminotransferase,30.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 8,AST_U_L,Aspartate Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 8,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.09,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 12,ALT_U_L,Alanine Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 12,AST_U_L,Aspartate Aminotransferase,19.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 12,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.9,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-010,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Screening,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Screening,AST_U_L,Aspartate Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Screening,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.19,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,18.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Baseline,ALT_U_L,Alanine Aminotransferase,31.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Baseline,AST_U_L,Aspartate Aminotransferase,13.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Baseline,CREATININE_MG_DL,Creatinine,0.65,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.39,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 4,ALT_U_L,Alanine Aminotransferase,26.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 4,AST_U_L,Aspartate Aminotransferase,23.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 4,CREATININE_MG_DL,Creatinine,0.69,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.69,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 8,ALT_U_L,Alanine Aminotransferase,23.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 8,AST_U_L,Aspartate Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 8,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 12,ALT_U_L,Alanine Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 12,AST_U_L,Aspartate Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 12,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-011,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Screening,ALT_U_L,Alanine Aminotransferase,25.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Screening,AST_U_L,Aspartate Aminotransferase,24.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Screening,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.91,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Baseline,ALT_U_L,Alanine Aminotransferase,16.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Baseline,AST_U_L,Aspartate Aminotransferase,14.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Baseline,CREATININE_MG_DL,Creatinine,0.66,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,31.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 4,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 4,AST_U_L,Aspartate Aminotransferase,26.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 4,CREATININE_MG_DL,Creatinine,0.51,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.89,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 8,ALT_U_L,Alanine Aminotransferase,20.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 8,AST_U_L,Aspartate Aminotransferase,28.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 8,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.22,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,26.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 12,ALT_U_L,Alanine Aminotransferase,13.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 12,AST_U_L,Aspartate Aminotransferase,23.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 12,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.62,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-012,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,27.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Screening,ALT_U_L,Alanine Aminotransferase,24.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Screening,AST_U_L,Aspartate Aminotransferase,27.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Screening,CREATININE_MG_DL,Creatinine,0.89,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Baseline,ALT_U_L,Alanine Aminotransferase,37.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Baseline,AST_U_L,Aspartate Aminotransferase,17.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Baseline,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.52,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 4,ALT_U_L,Alanine Aminotransferase,26.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 4,AST_U_L,Aspartate Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 4,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.39,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,30.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 8,ALT_U_L,Alanine Aminotransferase,24.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 8,AST_U_L,Aspartate Aminotransferase,34.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 8,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 12,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 12,AST_U_L,Aspartate Aminotransferase,21.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 12,CREATININE_MG_DL,Creatinine,1.1,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-013,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Screening,ALT_U_L,Alanine Aminotransferase,34.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Screening,AST_U_L,Aspartate Aminotransferase,33.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Screening,CREATININE_MG_DL,Creatinine,0.81,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.92,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,23.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Baseline,ALT_U_L,Alanine Aminotransferase,23.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Baseline,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Baseline,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 4,ALT_U_L,Alanine Aminotransferase,26.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 4,AST_U_L,Aspartate Aminotransferase,16.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 4,CREATININE_MG_DL,Creatinine,1.02,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.23,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 8,ALT_U_L,Alanine Aminotransferase,24.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 8,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 8,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.84,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 12,ALT_U_L,Alanine Aminotransferase,22.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 12,AST_U_L,Aspartate Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 12,CREATININE_MG_DL,Creatinine,1.23,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.27,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-014,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Screening,ALT_U_L,Alanine Aminotransferase,16.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Screening,AST_U_L,Aspartate Aminotransferase,27.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Baseline,ALT_U_L,Alanine Aminotransferase,37.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Baseline,AST_U_L,Aspartate Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Baseline,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 4,ALT_U_L,Alanine Aminotransferase,30.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 4,AST_U_L,Aspartate Aminotransferase,27.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 4,CREATININE_MG_DL,Creatinine,0.53,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.03,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 8,ALT_U_L,Alanine Aminotransferase,32.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 8,AST_U_L,Aspartate Aminotransferase,10.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 8,CREATININE_MG_DL,Creatinine,0.87,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.27,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 12,ALT_U_L,Alanine Aminotransferase,33.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 12,AST_U_L,Aspartate Aminotransferase,30.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 12,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.19,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-015,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Screening,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Screening,AST_U_L,Aspartate Aminotransferase,35.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Screening,CREATININE_MG_DL,Creatinine,1.04,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.62,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Baseline,ALT_U_L,Alanine Aminotransferase,23.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Baseline,AST_U_L,Aspartate Aminotransferase,25.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Baseline,CREATININE_MG_DL,Creatinine,1.23,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.97,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 4,ALT_U_L,Alanine Aminotransferase,25.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 4,AST_U_L,Aspartate Aminotransferase,35.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 4,CREATININE_MG_DL,Creatinine,0.62,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.8,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 8,ALT_U_L,Alanine Aminotransferase,16.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 8,AST_U_L,Aspartate Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 8,CREATININE_MG_DL,Creatinine,1.1,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.09,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,22.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 12,ALT_U_L,Alanine Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 12,AST_U_L,Aspartate Aminotransferase,25.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 12,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.24,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-016,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Screening,ALT_U_L,Alanine Aminotransferase,42.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Screening,AST_U_L,Aspartate Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Screening,CREATININE_MG_DL,Creatinine,0.83,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.17,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Baseline,ALT_U_L,Alanine Aminotransferase,25.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Baseline,AST_U_L,Aspartate Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Baseline,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.68,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,47.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 4,ALT_U_L,Alanine Aminotransferase,33.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 4,AST_U_L,Aspartate Aminotransferase,36.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 4,CREATININE_MG_DL,Creatinine,1.08,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.01,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 8,ALT_U_L,Alanine Aminotransferase,31.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 8,AST_U_L,Aspartate Aminotransferase,34.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 8,CREATININE_MG_DL,Creatinine,0.63,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.68,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 12,ALT_U_L,Alanine Aminotransferase,31.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 12,AST_U_L,Aspartate Aminotransferase,34.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 12,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-017,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Screening,ALT_U_L,Alanine Aminotransferase,35.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Screening,AST_U_L,Aspartate Aminotransferase,29.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Screening,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.76,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,25.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Baseline,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Baseline,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Baseline,CREATININE_MG_DL,Creatinine,1.34,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.78,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 4,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 4,AST_U_L,Aspartate Aminotransferase,25.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 4,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.44,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,47.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 8,ALT_U_L,Alanine Aminotransferase,22.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 8,AST_U_L,Aspartate Aminotransferase,39.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 8,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 12,ALT_U_L,Alanine Aminotransferase,30.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 12,AST_U_L,Aspartate Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 12,CREATININE_MG_DL,Creatinine,0.52,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.52,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-018,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Screening,ALT_U_L,Alanine Aminotransferase,24.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Screening,AST_U_L,Aspartate Aminotransferase,18.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Screening,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.2,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Baseline,ALT_U_L,Alanine Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Baseline,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Baseline,CREATININE_MG_DL,Creatinine,1.19,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.78,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 4,ALT_U_L,Alanine Aminotransferase,38.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 4,AST_U_L,Aspartate Aminotransferase,37.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 4,CREATININE_MG_DL,Creatinine,1.53,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 8,ALT_U_L,Alanine Aminotransferase,11.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 8,AST_U_L,Aspartate Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 8,CREATININE_MG_DL,Creatinine,0.79,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.41,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 12,ALT_U_L,Alanine Aminotransferase,14.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 12,AST_U_L,Aspartate Aminotransferase,22.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 12,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.0,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-019,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,14.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Screening,ALT_U_L,Alanine Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Screening,AST_U_L,Aspartate Aminotransferase,11.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Screening,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Baseline,ALT_U_L,Alanine Aminotransferase,21.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Baseline,AST_U_L,Aspartate Aminotransferase,25.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Baseline,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,24.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 4,ALT_U_L,Alanine Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 4,AST_U_L,Aspartate Aminotransferase,7.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 4,CREATININE_MG_DL,Creatinine,0.77,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 8,ALT_U_L,Alanine Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 8,AST_U_L,Aspartate Aminotransferase,16.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 8,CREATININE_MG_DL,Creatinine,0.7,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.34,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 12,ALT_U_L,Alanine Aminotransferase,23.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 12,AST_U_L,Aspartate Aminotransferase,22.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 12,CREATININE_MG_DL,Creatinine,1.04,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-020,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Screening,ALT_U_L,Alanine Aminotransferase,45.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Screening,AST_U_L,Aspartate Aminotransferase,16.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Screening,CREATININE_MG_DL,Creatinine,0.53,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Baseline,ALT_U_L,Alanine Aminotransferase,25.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Baseline,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Baseline,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 4,ALT_U_L,Alanine Aminotransferase,34.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 4,AST_U_L,Aspartate Aminotransferase,16.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 4,CREATININE_MG_DL,Creatinine,0.67,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.31,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 8,ALT_U_L,Alanine Aminotransferase,35.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 8,AST_U_L,Aspartate Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 8,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 12,ALT_U_L,Alanine Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 12,AST_U_L,Aspartate Aminotransferase,31.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 12,CREATININE_MG_DL,Creatinine,0.58,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-021,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Screening,ALT_U_L,Alanine Aminotransferase,24.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Screening,AST_U_L,Aspartate Aminotransferase,30.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Screening,CREATININE_MG_DL,Creatinine,1.46,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.97,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Baseline,ALT_U_L,Alanine Aminotransferase,22.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Baseline,AST_U_L,Aspartate Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Baseline,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 4,ALT_U_L,Alanine Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 4,AST_U_L,Aspartate Aminotransferase,36.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 4,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 8,ALT_U_L,Alanine Aminotransferase,34.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 8,AST_U_L,Aspartate Aminotransferase,28.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 8,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,30.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 12,ALT_U_L,Alanine Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 12,AST_U_L,Aspartate Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 12,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-022,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,60.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Screening,ALT_U_L,Alanine Aminotransferase,32.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Screening,AST_U_L,Aspartate Aminotransferase,21.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Screening,CREATININE_MG_DL,Creatinine,0.59,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.93,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Baseline,ALT_U_L,Alanine Aminotransferase,210.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Baseline,AST_U_L,Aspartate Aminotransferase,23.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Baseline,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.63,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 4,ALT_U_L,Alanine Aminotransferase,33.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 4,AST_U_L,Aspartate Aminotransferase,21.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 4,CREATININE_MG_DL,Creatinine,1.24,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.19,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 8,ALT_U_L,Alanine Aminotransferase,26.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 8,AST_U_L,Aspartate Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 8,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.47,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 12,ALT_U_L,Alanine Aminotransferase,19.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 12,AST_U_L,Aspartate Aminotransferase,35.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 12,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-023,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,63.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Screening,ALT_U_L,Alanine Aminotransferase,19.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Screening,AST_U_L,Aspartate Aminotransferase,30.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Screening,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Baseline,ALT_U_L,Alanine Aminotransferase,16.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Baseline,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Baseline,CREATININE_MG_DL,Creatinine,1.17,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.16,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 4,ALT_U_L,Alanine Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 4,AST_U_L,Aspartate Aminotransferase,23.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 4,CREATININE_MG_DL,Creatinine,1.17,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.86,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 8,ALT_U_L,Alanine Aminotransferase,37.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 8,AST_U_L,Aspartate Aminotransferase,20.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 8,CREATININE_MG_DL,Creatinine,1.21,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 12,ALT_U_L,Alanine Aminotransferase,25.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 12,AST_U_L,Aspartate Aminotransferase,24.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 12,CREATININE_MG_DL,Creatinine,0.52,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.55,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-024,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Screening,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Screening,AST_U_L,Aspartate Aminotransferase,25.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Screening,CREATININE_MG_DL,Creatinine,1.09,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.35,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Baseline,ALT_U_L,Alanine Aminotransferase,19.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Baseline,AST_U_L,Aspartate Aminotransferase,19.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Baseline,CREATININE_MG_DL,Creatinine,1.26,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.22,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 4,ALT_U_L,Alanine Aminotransferase,26.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 4,AST_U_L,Aspartate Aminotransferase,26.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 4,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.63,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 8,ALT_U_L,Alanine Aminotransferase,24.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 8,AST_U_L,Aspartate Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 8,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.17,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 12,ALT_U_L,Alanine Aminotransferase,33.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 12,AST_U_L,Aspartate Aminotransferase,37.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 12,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.47,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-025,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,22.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Screening,ALT_U_L,Alanine Aminotransferase,7.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Screening,AST_U_L,Aspartate Aminotransferase,28.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Screening,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Baseline,ALT_U_L,Alanine Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Baseline,AST_U_L,Aspartate Aminotransferase,33.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Baseline,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.2,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 4,ALT_U_L,Alanine Aminotransferase,26.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 4,AST_U_L,Aspartate Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 4,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 8,ALT_U_L,Alanine Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 8,AST_U_L,Aspartate Aminotransferase,29.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 8,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.1,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 12,ALT_U_L,Alanine Aminotransferase,34.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 12,AST_U_L,Aspartate Aminotransferase,23.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 12,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-026,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Screening,ALT_U_L,Alanine Aminotransferase,15.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Screening,AST_U_L,Aspartate Aminotransferase,24.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Screening,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Baseline,ALT_U_L,Alanine Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Baseline,AST_U_L,Aspartate Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Baseline,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 4,ALT_U_L,Alanine Aminotransferase,30.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 4,AST_U_L,Aspartate Aminotransferase,22.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 4,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.4,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 8,ALT_U_L,Alanine Aminotransferase,30.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 8,AST_U_L,Aspartate Aminotransferase,42.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 8,CREATININE_MG_DL,Creatinine,0.76,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.6,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 12,ALT_U_L,Alanine Aminotransferase,31.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 12,AST_U_L,Aspartate Aminotransferase,27.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 12,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-027,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,9.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Screening,ALT_U_L,Alanine Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Screening,AST_U_L,Aspartate Aminotransferase,33.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Screening,CREATININE_MG_DL,Creatinine,0.59,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Baseline,ALT_U_L,Alanine Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Baseline,AST_U_L,Aspartate Aminotransferase,18.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Baseline,CREATININE_MG_DL,Creatinine,0.7,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 4,ALT_U_L,Alanine Aminotransferase,23.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 4,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 4,CREATININE_MG_DL,Creatinine,0.33,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,28.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 8,ALT_U_L,Alanine Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 8,AST_U_L,Aspartate Aminotransferase,22.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 8,CREATININE_MG_DL,Creatinine,1.06,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.13,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 12,ALT_U_L,Alanine Aminotransferase,32.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 12,AST_U_L,Aspartate Aminotransferase,39.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 12,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.49,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-028,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,17.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Screening,ALT_U_L,Alanine Aminotransferase,8.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Screening,AST_U_L,Aspartate Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Screening,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,24.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Baseline,ALT_U_L,Alanine Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Baseline,AST_U_L,Aspartate Aminotransferase,39.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Baseline,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 4,ALT_U_L,Alanine Aminotransferase,15.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 4,AST_U_L,Aspartate Aminotransferase,35.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 4,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.71,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,21.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 8,ALT_U_L,Alanine Aminotransferase,18.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 8,AST_U_L,Aspartate Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 8,CREATININE_MG_DL,Creatinine,0.83,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.84,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 12,ALT_U_L,Alanine Aminotransferase,13.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 12,AST_U_L,Aspartate Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 12,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-029,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Screening,ALT_U_L,Alanine Aminotransferase,15.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Screening,AST_U_L,Aspartate Aminotransferase,27.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Screening,CREATININE_MG_DL,Creatinine,1.34,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.69,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Baseline,ALT_U_L,Alanine Aminotransferase,36.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Baseline,AST_U_L,Aspartate Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Baseline,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.79,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 4,ALT_U_L,Alanine Aminotransferase,36.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 4,AST_U_L,Aspartate Aminotransferase,20.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 4,CREATININE_MG_DL,Creatinine,1.18,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.99,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,31.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 8,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 8,AST_U_L,Aspartate Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 8,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 12,ALT_U_L,Alanine Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 12,AST_U_L,Aspartate Aminotransferase,28.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 12,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-030,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Screening,ALT_U_L,Alanine Aminotransferase,26.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Screening,AST_U_L,Aspartate Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Screening,CREATININE_MG_DL,Creatinine,0.63,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.8,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,14.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Baseline,ALT_U_L,Alanine Aminotransferase,27.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Baseline,AST_U_L,Aspartate Aminotransferase,21.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Baseline,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 4,ALT_U_L,Alanine Aminotransferase,44.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 4,AST_U_L,Aspartate Aminotransferase,15.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 4,CREATININE_MG_DL,Creatinine,1.13,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.27,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 8,ALT_U_L,Alanine Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 8,AST_U_L,Aspartate Aminotransferase,22.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 8,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.91,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 12,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 12,AST_U_L,Aspartate Aminotransferase,23.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 12,CREATININE_MG_DL,Creatinine,0.6,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.85,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-031,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,63.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Screening,ALT_U_L,Alanine Aminotransferase,15.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Screening,AST_U_L,Aspartate Aminotransferase,18.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Screening,CREATININE_MG_DL,Creatinine,0.93,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.92,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Baseline,ALT_U_L,Alanine Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Baseline,AST_U_L,Aspartate Aminotransferase,16.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Baseline,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,25.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 4,ALT_U_L,Alanine Aminotransferase,15.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 4,AST_U_L,Aspartate Aminotransferase,21.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 4,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.86,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 8,ALT_U_L,Alanine Aminotransferase,28.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 8,AST_U_L,Aspartate Aminotransferase,13.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 8,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.56,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 12,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 12,AST_U_L,Aspartate Aminotransferase,18.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 12,CREATININE_MG_DL,Creatinine,1.13,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-032,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Screening,ALT_U_L,Alanine Aminotransferase,27.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Screening,AST_U_L,Aspartate Aminotransferase,25.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Screening,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Baseline,ALT_U_L,Alanine Aminotransferase,36.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Baseline,AST_U_L,Aspartate Aminotransferase,21.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Baseline,CREATININE_MG_DL,Creatinine,1.08,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.14,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 4,ALT_U_L,Alanine Aminotransferase,33.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 4,AST_U_L,Aspartate Aminotransferase,17.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 4,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.34,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 8,ALT_U_L,Alanine Aminotransferase,22.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 8,AST_U_L,Aspartate Aminotransferase,14.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 8,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.38,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 12,ALT_U_L,Alanine Aminotransferase,35.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 12,AST_U_L,Aspartate Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 12,CREATININE_MG_DL,Creatinine,1.29,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-033,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Screening,ALT_U_L,Alanine Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Screening,AST_U_L,Aspartate Aminotransferase,25.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Screening,CREATININE_MG_DL,Creatinine,0.58,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.97,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Baseline,ALT_U_L,Alanine Aminotransferase,11.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Baseline,AST_U_L,Aspartate Aminotransferase,26.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Baseline,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.09,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 4,ALT_U_L,Alanine Aminotransferase,33.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 4,AST_U_L,Aspartate Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 4,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 8,ALT_U_L,Alanine Aminotransferase,30.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 8,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 8,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 12,ALT_U_L,Alanine Aminotransferase,44.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 12,AST_U_L,Aspartate Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 12,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-034,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Screening,ALT_U_L,Alanine Aminotransferase,14.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Screening,AST_U_L,Aspartate Aminotransferase,22.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Baseline,ALT_U_L,Alanine Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Baseline,AST_U_L,Aspartate Aminotransferase,9.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Baseline,CREATININE_MG_DL,Creatinine,1.31,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 4,ALT_U_L,Alanine Aminotransferase,29.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 4,AST_U_L,Aspartate Aminotransferase,27.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 4,CREATININE_MG_DL,Creatinine,0.77,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.34,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 8,ALT_U_L,Alanine Aminotransferase,24.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 8,AST_U_L,Aspartate Aminotransferase,21.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 8,CREATININE_MG_DL,Creatinine,0.61,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 12,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 12,AST_U_L,Aspartate Aminotransferase,31.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 12,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-035,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Screening,ALT_U_L,Alanine Aminotransferase,17.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Screening,AST_U_L,Aspartate Aminotransferase,19.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Screening,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.4,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Baseline,ALT_U_L,Alanine Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Baseline,AST_U_L,Aspartate Aminotransferase,33.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Baseline,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.52,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 4,ALT_U_L,Alanine Aminotransferase,34.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 4,AST_U_L,Aspartate Aminotransferase,25.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 4,CREATININE_MG_DL,Creatinine,0.82,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 8,ALT_U_L,Alanine Aminotransferase,22.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 8,AST_U_L,Aspartate Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 8,CREATININE_MG_DL,Creatinine,0.69,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.9,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 12,ALT_U_L,Alanine Aminotransferase,32.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 12,AST_U_L,Aspartate Aminotransferase,27.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 12,CREATININE_MG_DL,Creatinine,0.51,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.68,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-036,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,11.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Screening,ALT_U_L,Alanine Aminotransferase,39.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Screening,AST_U_L,Aspartate Aminotransferase,18.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Screening,CREATININE_MG_DL,Creatinine,1.15,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.24,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,31.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Baseline,ALT_U_L,Alanine Aminotransferase,18.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Baseline,AST_U_L,Aspartate Aminotransferase,28.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Baseline,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.22,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 4,ALT_U_L,Alanine Aminotransferase,13.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 4,AST_U_L,Aspartate Aminotransferase,10.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 4,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 8,ALT_U_L,Alanine Aminotransferase,33.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 8,AST_U_L,Aspartate Aminotransferase,34.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 8,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.69,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 12,ALT_U_L,Alanine Aminotransferase,17.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 12,AST_U_L,Aspartate Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 12,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.92,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-037,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,15.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Screening,ALT_U_L,Alanine Aminotransferase,21.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Screening,AST_U_L,Aspartate Aminotransferase,19.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Screening,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.68,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,67.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Baseline,ALT_U_L,Alanine Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Baseline,AST_U_L,Aspartate Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Baseline,CREATININE_MG_DL,Creatinine,1.13,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 4,ALT_U_L,Alanine Aminotransferase,30.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 4,AST_U_L,Aspartate Aminotransferase,17.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 4,CREATININE_MG_DL,Creatinine,0.63,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.24,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 8,ALT_U_L,Alanine Aminotransferase,37.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 8,AST_U_L,Aspartate Aminotransferase,38.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 8,CREATININE_MG_DL,Creatinine,1.07,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 12,ALT_U_L,Alanine Aminotransferase,18.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 12,AST_U_L,Aspartate Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 12,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.23,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-038,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Screening,ALT_U_L,Alanine Aminotransferase,30.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Screening,AST_U_L,Aspartate Aminotransferase,35.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Screening,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Baseline,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Baseline,AST_U_L,Aspartate Aminotransferase,22.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Baseline,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,60.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 4,ALT_U_L,Alanine Aminotransferase,18.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 4,AST_U_L,Aspartate Aminotransferase,28.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 4,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.76,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 8,ALT_U_L,Alanine Aminotransferase,15.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 8,AST_U_L,Aspartate Aminotransferase,28.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 8,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.16,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 12,ALT_U_L,Alanine Aminotransferase,31.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 12,AST_U_L,Aspartate Aminotransferase,19.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 12,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.55,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-039,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Screening,ALT_U_L,Alanine Aminotransferase,41.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Screening,AST_U_L,Aspartate Aminotransferase,20.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Screening,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,27.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Baseline,ALT_U_L,Alanine Aminotransferase,20.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Baseline,AST_U_L,Aspartate Aminotransferase,16.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Baseline,CREATININE_MG_DL,Creatinine,0.58,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.6,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 4,ALT_U_L,Alanine Aminotransferase,31.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 4,AST_U_L,Aspartate Aminotransferase,30.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 4,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.89,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 8,ALT_U_L,Alanine Aminotransferase,18.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 8,AST_U_L,Aspartate Aminotransferase,33.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 8,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.98,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 12,ALT_U_L,Alanine Aminotransferase,20.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 12,AST_U_L,Aspartate Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 12,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.52,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-040,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,31.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Screening,ALT_U_L,Alanine Aminotransferase,24.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Screening,AST_U_L,Aspartate Aminotransferase,33.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Screening,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.59,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Baseline,ALT_U_L,Alanine Aminotransferase,37.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Baseline,AST_U_L,Aspartate Aminotransferase,16.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Baseline,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 4,ALT_U_L,Alanine Aminotransferase,29.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 4,AST_U_L,Aspartate Aminotransferase,32.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 4,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.05,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 8,ALT_U_L,Alanine Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 8,AST_U_L,Aspartate Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 8,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.84,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 12,ALT_U_L,Alanine Aminotransferase,19.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 12,AST_U_L,Aspartate Aminotransferase,39.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 12,CREATININE_MG_DL,Creatinine,0.54,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.38,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-041,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Screening,ALT_U_L,Alanine Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Screening,AST_U_L,Aspartate Aminotransferase,25.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Screening,CREATININE_MG_DL,Creatinine,0.89,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.59,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Baseline,ALT_U_L,Alanine Aminotransferase,39.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Baseline,AST_U_L,Aspartate Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Baseline,CREATININE_MG_DL,Creatinine,1.07,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 4,ALT_U_L,Alanine Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 4,AST_U_L,Aspartate Aminotransferase,19.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 4,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 8,ALT_U_L,Alanine Aminotransferase,19.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 8,AST_U_L,Aspartate Aminotransferase,38.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 8,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.36,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 12,ALT_U_L,Alanine Aminotransferase,23.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 12,AST_U_L,Aspartate Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 12,CREATININE_MG_DL,Creatinine,0.65,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.84,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-042,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Screening,ALT_U_L,Alanine Aminotransferase,23.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Screening,AST_U_L,Aspartate Aminotransferase,23.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Screening,CREATININE_MG_DL,Creatinine,1.06,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.4,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Baseline,ALT_U_L,Alanine Aminotransferase,26.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Baseline,AST_U_L,Aspartate Aminotransferase,17.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Baseline,CREATININE_MG_DL,Creatinine,1.26,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.42,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 4,ALT_U_L,Alanine Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 4,AST_U_L,Aspartate Aminotransferase,19.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 4,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 8,ALT_U_L,Alanine Aminotransferase,37.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 8,AST_U_L,Aspartate Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 8,CREATININE_MG_DL,Creatinine,1.08,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.55,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,28.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 12,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 12,AST_U_L,Aspartate Aminotransferase,27.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 12,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-043,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Screening,ALT_U_L,Alanine Aminotransferase,29.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Screening,AST_U_L,Aspartate Aminotransferase,24.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Screening,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Baseline,ALT_U_L,Alanine Aminotransferase,26.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Baseline,AST_U_L,Aspartate Aminotransferase,32.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Baseline,CREATININE_MG_DL,Creatinine,1.23,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,28.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 4,ALT_U_L,Alanine Aminotransferase,26.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 4,AST_U_L,Aspartate Aminotransferase,23.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 4,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.92,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 8,ALT_U_L,Alanine Aminotransferase,28.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 8,AST_U_L,Aspartate Aminotransferase,11.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 8,CREATININE_MG_DL,Creatinine,1.19,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.49,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 12,ALT_U_L,Alanine Aminotransferase,25.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 12,AST_U_L,Aspartate Aminotransferase,34.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 12,CREATININE_MG_DL,Creatinine,0.33,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-044,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Screening,ALT_U_L,Alanine Aminotransferase,24.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Screening,AST_U_L,Aspartate Aminotransferase,38.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Screening,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.03,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Baseline,ALT_U_L,Alanine Aminotransferase,38.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Baseline,AST_U_L,Aspartate Aminotransferase,21.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Baseline,CREATININE_MG_DL,Creatinine,0.75,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.42,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 4,ALT_U_L,Alanine Aminotransferase,15.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 4,AST_U_L,Aspartate Aminotransferase,22.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 4,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.11,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 8,ALT_U_L,Alanine Aminotransferase,4.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 8,AST_U_L,Aspartate Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 8,CREATININE_MG_DL,Creatinine,0.66,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,2.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 12,ALT_U_L,Alanine Aminotransferase,34.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 12,AST_U_L,Aspartate Aminotransferase,26.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 12,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-045,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Screening,ALT_U_L,Alanine Aminotransferase,40.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Screening,AST_U_L,Aspartate Aminotransferase,16.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Screening,CREATININE_MG_DL,Creatinine,0.89,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.16,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Baseline,ALT_U_L,Alanine Aminotransferase,26.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Baseline,AST_U_L,Aspartate Aminotransferase,30.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Baseline,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.85,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 4,ALT_U_L,Alanine Aminotransferase,45.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 4,AST_U_L,Aspartate Aminotransferase,23.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 4,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.4,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 8,ALT_U_L,Alanine Aminotransferase,39.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 8,AST_U_L,Aspartate Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 8,CREATININE_MG_DL,Creatinine,0.79,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 12,ALT_U_L,Alanine Aminotransferase,26.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 12,AST_U_L,Aspartate Aminotransferase,21.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 12,CREATININE_MG_DL,Creatinine,1.23,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-046,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Screening,ALT_U_L,Alanine Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Screening,AST_U_L,Aspartate Aminotransferase,14.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Screening,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.83,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Baseline,ALT_U_L,Alanine Aminotransferase,20.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Baseline,AST_U_L,Aspartate Aminotransferase,30.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Baseline,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.13,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 4,ALT_U_L,Alanine Aminotransferase,26.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 4,AST_U_L,Aspartate Aminotransferase,22.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 4,CREATININE_MG_DL,Creatinine,1.19,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 8,ALT_U_L,Alanine Aminotransferase,33.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 8,AST_U_L,Aspartate Aminotransferase,20.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 8,CREATININE_MG_DL,Creatinine,0.71,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 12,ALT_U_L,Alanine Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 12,AST_U_L,Aspartate Aminotransferase,27.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 12,CREATININE_MG_DL,Creatinine,1.09,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.73,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-047,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Screening,ALT_U_L,Alanine Aminotransferase,26.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Screening,AST_U_L,Aspartate Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Screening,CREATININE_MG_DL,Creatinine,1.15,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Baseline,ALT_U_L,Alanine Aminotransferase,20.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Baseline,AST_U_L,Aspartate Aminotransferase,15.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Baseline,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.79,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 4,ALT_U_L,Alanine Aminotransferase,27.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 4,AST_U_L,Aspartate Aminotransferase,35.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 4,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 8,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 8,AST_U_L,Aspartate Aminotransferase,30.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 8,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 12,ALT_U_L,Alanine Aminotransferase,27.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 12,AST_U_L,Aspartate Aminotransferase,42.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 12,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.97,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-048,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Screening,ALT_U_L,Alanine Aminotransferase,36.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Screening,AST_U_L,Aspartate Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Screening,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.74,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Baseline,ALT_U_L,Alanine Aminotransferase,2.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Baseline,AST_U_L,Aspartate Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Baseline,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.01,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 4,ALT_U_L,Alanine Aminotransferase,18.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 4,AST_U_L,Aspartate Aminotransferase,25.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 4,CREATININE_MG_DL,Creatinine,0.69,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 8,ALT_U_L,Alanine Aminotransferase,35.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 8,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 8,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 12,ALT_U_L,Alanine Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 12,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 12,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.6,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-049,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Screening,ALT_U_L,Alanine Aminotransferase,25.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Screening,AST_U_L,Aspartate Aminotransferase,27.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.06,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Baseline,ALT_U_L,Alanine Aminotransferase,36.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Baseline,AST_U_L,Aspartate Aminotransferase,24.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Baseline,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 4,ALT_U_L,Alanine Aminotransferase,30.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 4,AST_U_L,Aspartate Aminotransferase,15.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 4,CREATININE_MG_DL,Creatinine,1.16,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.3,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 8,ALT_U_L,Alanine Aminotransferase,17.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 8,AST_U_L,Aspartate Aminotransferase,30.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 8,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.56,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,30.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 12,ALT_U_L,Alanine Aminotransferase,30.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 12,AST_U_L,Aspartate Aminotransferase,17.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 12,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.34,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-050,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Screening,ALT_U_L,Alanine Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Screening,AST_U_L,Aspartate Aminotransferase,19.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Screening,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.12,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,10.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Baseline,ALT_U_L,Alanine Aminotransferase,34.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Baseline,AST_U_L,Aspartate Aminotransferase,25.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Baseline,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.79,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,2.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 4,ALT_U_L,Alanine Aminotransferase,30.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 4,AST_U_L,Aspartate Aminotransferase,28.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 4,CREATININE_MG_DL,Creatinine,0.56,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.93,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,86.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 8,ALT_U_L,Alanine Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 8,AST_U_L,Aspartate Aminotransferase,31.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 8,CREATININE_MG_DL,Creatinine,0.77,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.41,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 12,ALT_U_L,Alanine Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 12,AST_U_L,Aspartate Aminotransferase,23.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 12,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.42,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-051,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Screening,ALT_U_L,Alanine Aminotransferase,17.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Screening,AST_U_L,Aspartate Aminotransferase,29.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Screening,CREATININE_MG_DL,Creatinine,0.51,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.36,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Baseline,ALT_U_L,Alanine Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Baseline,AST_U_L,Aspartate Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Baseline,CREATININE_MG_DL,Creatinine,0.62,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 4,ALT_U_L,Alanine Aminotransferase,15.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 4,AST_U_L,Aspartate Aminotransferase,20.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 4,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 8,ALT_U_L,Alanine Aminotransferase,34.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 8,AST_U_L,Aspartate Aminotransferase,12.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 8,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.14,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 12,ALT_U_L,Alanine Aminotransferase,26.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 12,AST_U_L,Aspartate Aminotransferase,35.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 12,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.85,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-052,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Screening,ALT_U_L,Alanine Aminotransferase,26.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Screening,AST_U_L,Aspartate Aminotransferase,24.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Screening,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Baseline,ALT_U_L,Alanine Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Baseline,AST_U_L,Aspartate Aminotransferase,26.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Baseline,CREATININE_MG_DL,Creatinine,1.06,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.21,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 4,ALT_U_L,Alanine Aminotransferase,35.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 4,AST_U_L,Aspartate Aminotransferase,17.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 4,CREATININE_MG_DL,Creatinine,1.02,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.84,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,16.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 8,ALT_U_L,Alanine Aminotransferase,28.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 8,AST_U_L,Aspartate Aminotransferase,22.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 8,CREATININE_MG_DL,Creatinine,0.75,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.72,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 12,ALT_U_L,Alanine Aminotransferase,21.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 12,AST_U_L,Aspartate Aminotransferase,26.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 12,CREATININE_MG_DL,Creatinine,1.04,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.93,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-053,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Screening,ALT_U_L,Alanine Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Screening,AST_U_L,Aspartate Aminotransferase,10.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Screening,CREATININE_MG_DL,Creatinine,0.79,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Baseline,ALT_U_L,Alanine Aminotransferase,7.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Baseline,AST_U_L,Aspartate Aminotransferase,43.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Baseline,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 4,ALT_U_L,Alanine Aminotransferase,46.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 4,AST_U_L,Aspartate Aminotransferase,32.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 4,CREATININE_MG_DL,Creatinine,1.09,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 8,ALT_U_L,Alanine Aminotransferase,24.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 8,AST_U_L,Aspartate Aminotransferase,20.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 8,CREATININE_MG_DL,Creatinine,0.76,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 12,ALT_U_L,Alanine Aminotransferase,14.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 12,AST_U_L,Aspartate Aminotransferase,27.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 12,CREATININE_MG_DL,Creatinine,0.89,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-054,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Screening,ALT_U_L,Alanine Aminotransferase,52.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Screening,AST_U_L,Aspartate Aminotransferase,35.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Screening,CREATININE_MG_DL,Creatinine,0.65,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.38,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Baseline,ALT_U_L,Alanine Aminotransferase,19.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Baseline,AST_U_L,Aspartate Aminotransferase,16.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Baseline,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 4,ALT_U_L,Alanine Aminotransferase,36.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 4,AST_U_L,Aspartate Aminotransferase,35.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 4,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 8,ALT_U_L,Alanine Aminotransferase,24.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 8,AST_U_L,Aspartate Aminotransferase,20.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 8,CREATININE_MG_DL,Creatinine,1.22,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 12,ALT_U_L,Alanine Aminotransferase,21.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 12,AST_U_L,Aspartate Aminotransferase,17.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 12,CREATININE_MG_DL,Creatinine,-1.1,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.95,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-055,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,29.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Screening,ALT_U_L,Alanine Aminotransferase,27.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Screening,AST_U_L,Aspartate Aminotransferase,14.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.91,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Baseline,ALT_U_L,Alanine Aminotransferase,24.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Baseline,AST_U_L,Aspartate Aminotransferase,18.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Baseline,CREATININE_MG_DL,Creatinine,-0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.65,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,54.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 4,ALT_U_L,Alanine Aminotransferase,35.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 4,AST_U_L,Aspartate Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 4,CREATININE_MG_DL,Creatinine,0.67,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.42,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 8,ALT_U_L,Alanine Aminotransferase,23.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 8,AST_U_L,Aspartate Aminotransferase,35.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 8,CREATININE_MG_DL,Creatinine,1.07,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,25.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 12,ALT_U_L,Alanine Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 12,AST_U_L,Aspartate Aminotransferase,33.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 12,CREATININE_MG_DL,Creatinine,0.82,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.72,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-056,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Screening,ALT_U_L,Alanine Aminotransferase,41.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Screening,AST_U_L,Aspartate Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Screening,CREATININE_MG_DL,Creatinine,1.02,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.8,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Baseline,ALT_U_L,Alanine Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Baseline,AST_U_L,Aspartate Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Baseline,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.55,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 4,ALT_U_L,Alanine Aminotransferase,36.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 4,AST_U_L,Aspartate Aminotransferase,10.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 4,CREATININE_MG_DL,Creatinine,1.21,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 8,ALT_U_L,Alanine Aminotransferase,32.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 8,AST_U_L,Aspartate Aminotransferase,26.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 8,CREATININE_MG_DL,Creatinine,1.15,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,24.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 12,ALT_U_L,Alanine Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 12,AST_U_L,Aspartate Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 12,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.23,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-057,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,71.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Screening,ALT_U_L,Alanine Aminotransferase,36.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Screening,AST_U_L,Aspartate Aminotransferase,20.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Screening,CREATININE_MG_DL,Creatinine,0.63,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.64,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Baseline,ALT_U_L,Alanine Aminotransferase,29.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Baseline,AST_U_L,Aspartate Aminotransferase,34.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Baseline,CREATININE_MG_DL,Creatinine,1.06,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.26,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 4,ALT_U_L,Alanine Aminotransferase,16.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 4,AST_U_L,Aspartate Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 4,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.04,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,52.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 8,ALT_U_L,Alanine Aminotransferase,25.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 8,AST_U_L,Aspartate Aminotransferase,18.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 8,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.47,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 12,ALT_U_L,Alanine Aminotransferase,26.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 12,AST_U_L,Aspartate Aminotransferase,19.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 12,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-058,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,66.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Screening,ALT_U_L,Alanine Aminotransferase,40.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Screening,AST_U_L,Aspartate Aminotransferase,25.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Screening,CREATININE_MG_DL,Creatinine,0.7,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.4,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,22.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Baseline,ALT_U_L,Alanine Aminotransferase,17.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Baseline,AST_U_L,Aspartate Aminotransferase,35.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Baseline,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.57,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,11.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 4,ALT_U_L,Alanine Aminotransferase,18.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 4,AST_U_L,Aspartate Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 4,CREATININE_MG_DL,Creatinine,0.96,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.92,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 8,ALT_U_L,Alanine Aminotransferase,41.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 8,AST_U_L,Aspartate Aminotransferase,24.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 8,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,80.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 12,ALT_U_L,Alanine Aminotransferase,11.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 12,AST_U_L,Aspartate Aminotransferase,30.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 12,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.78,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-059,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Screening,ALT_U_L,Alanine Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Screening,AST_U_L,Aspartate Aminotransferase,31.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Screening,CREATININE_MG_DL,Creatinine,1.52,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Baseline,ALT_U_L,Alanine Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Baseline,AST_U_L,Aspartate Aminotransferase,22.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Baseline,CREATININE_MG_DL,Creatinine,0.54,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.7,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 4,ALT_U_L,Alanine Aminotransferase,17.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 4,AST_U_L,Aspartate Aminotransferase,33.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 4,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.22,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 8,ALT_U_L,Alanine Aminotransferase,40.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 8,AST_U_L,Aspartate Aminotransferase,31.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 8,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 12,ALT_U_L,Alanine Aminotransferase,23.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 12,AST_U_L,Aspartate Aminotransferase,11.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 12,CREATININE_MG_DL,Creatinine,1.31,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.29,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-060,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Screening,ALT_U_L,Alanine Aminotransferase,27.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Screening,AST_U_L,Aspartate Aminotransferase,20.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Screening,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.18,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,79.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Baseline,ALT_U_L,Alanine Aminotransferase,18.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Baseline,AST_U_L,Aspartate Aminotransferase,18.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Baseline,CREATININE_MG_DL,Creatinine,0.81,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.65,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 4,ALT_U_L,Alanine Aminotransferase,18.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 4,AST_U_L,Aspartate Aminotransferase,34.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 4,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.75,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 8,ALT_U_L,Alanine Aminotransferase,47.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 8,AST_U_L,Aspartate Aminotransferase,41.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 8,CREATININE_MG_DL,Creatinine,0.76,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.05,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 12,ALT_U_L,Alanine Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 12,AST_U_L,Aspartate Aminotransferase,14.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 12,CREATININE_MG_DL,Creatinine,0.87,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.12,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-061,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Screening,ALT_U_L,Alanine Aminotransferase,36.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Screening,AST_U_L,Aspartate Aminotransferase,11.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Screening,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Baseline,ALT_U_L,Alanine Aminotransferase,33.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Baseline,AST_U_L,Aspartate Aminotransferase,28.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Baseline,CREATININE_MG_DL,Creatinine,0.97,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,26.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 4,ALT_U_L,Alanine Aminotransferase,19.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 4,AST_U_L,Aspartate Aminotransferase,31.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 4,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.93,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 8,ALT_U_L,Alanine Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 8,AST_U_L,Aspartate Aminotransferase,33.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 8,CREATININE_MG_DL,Creatinine,0.83,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.49,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 12,ALT_U_L,Alanine Aminotransferase,26.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 12,AST_U_L,Aspartate Aminotransferase,26.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 12,CREATININE_MG_DL,Creatinine,1.22,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-062,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Screening,ALT_U_L,Alanine Aminotransferase,18.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Screening,AST_U_L,Aspartate Aminotransferase,24.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Screening,CREATININE_MG_DL,Creatinine,1.02,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.23,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Baseline,ALT_U_L,Alanine Aminotransferase,28.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Baseline,AST_U_L,Aspartate Aminotransferase,26.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Baseline,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,67.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 4,ALT_U_L,Alanine Aminotransferase,20.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 4,AST_U_L,Aspartate Aminotransferase,27.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 4,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.82,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 8,ALT_U_L,Alanine Aminotransferase,46.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 8,AST_U_L,Aspartate Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 8,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.2,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 12,ALT_U_L,Alanine Aminotransferase,13.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 12,AST_U_L,Aspartate Aminotransferase,21.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 12,CREATININE_MG_DL,Creatinine,0.62,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.14,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-063,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Screening,ALT_U_L,Alanine Aminotransferase,25.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Screening,AST_U_L,Aspartate Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.18,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Baseline,ALT_U_L,Alanine Aminotransferase,36.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Baseline,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Baseline,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.19,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 4,ALT_U_L,Alanine Aminotransferase,29.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 4,AST_U_L,Aspartate Aminotransferase,18.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 4,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.81,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 8,ALT_U_L,Alanine Aminotransferase,24.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 8,AST_U_L,Aspartate Aminotransferase,43.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 8,CREATININE_MG_DL,Creatinine,0.89,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.41,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,43.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 12,ALT_U_L,Alanine Aminotransferase,32.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 12,AST_U_L,Aspartate Aminotransferase,37.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 12,CREATININE_MG_DL,Creatinine,0.78,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.2,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-064,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Screening,ALT_U_L,Alanine Aminotransferase,17.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Screening,AST_U_L,Aspartate Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Screening,CREATININE_MG_DL,Creatinine,0.85,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Baseline,ALT_U_L,Alanine Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Baseline,AST_U_L,Aspartate Aminotransferase,24.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Baseline,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 4,ALT_U_L,Alanine Aminotransferase,31.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 4,AST_U_L,Aspartate Aminotransferase,31.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 4,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.64,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,21.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 8,ALT_U_L,Alanine Aminotransferase,28.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 8,AST_U_L,Aspartate Aminotransferase,29.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 8,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.27,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 12,ALT_U_L,Alanine Aminotransferase,23.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 12,AST_U_L,Aspartate Aminotransferase,29.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 12,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-065,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Screening,ALT_U_L,Alanine Aminotransferase,29.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Screening,AST_U_L,Aspartate Aminotransferase,25.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Screening,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.0,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Baseline,ALT_U_L,Alanine Aminotransferase,46.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Baseline,AST_U_L,Aspartate Aminotransferase,20.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Baseline,CREATININE_MG_DL,Creatinine,1.0,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.46,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 4,ALT_U_L,Alanine Aminotransferase,27.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 4,AST_U_L,Aspartate Aminotransferase,27.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 4,CREATININE_MG_DL,Creatinine,1.48,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.88,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,28.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 8,ALT_U_L,Alanine Aminotransferase,30.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 8,AST_U_L,Aspartate Aminotransferase,11.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 8,CREATININE_MG_DL,Creatinine,0.88,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.12,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 12,ALT_U_L,Alanine Aminotransferase,35.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 12,AST_U_L,Aspartate Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 12,CREATININE_MG_DL,Creatinine,0.87,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.18,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-066,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,28.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Screening,ALT_U_L,Alanine Aminotransferase,30.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Screening,AST_U_L,Aspartate Aminotransferase,17.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Screening,CREATININE_MG_DL,Creatinine,0.82,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.91,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Baseline,ALT_U_L,Alanine Aminotransferase,42.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Baseline,AST_U_L,Aspartate Aminotransferase,16.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Baseline,CREATININE_MG_DL,Creatinine,0.53,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.95,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 4,ALT_U_L,Alanine Aminotransferase,180.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 4,AST_U_L,Aspartate Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 4,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.54,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,60.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 8,ALT_U_L,Alanine Aminotransferase,12.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 8,AST_U_L,Aspartate Aminotransferase,23.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 8,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.0,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,71.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 12,ALT_U_L,Alanine Aminotransferase,22.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 12,AST_U_L,Aspartate Aminotransferase,25.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 12,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.39,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-067,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,17.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Screening,ALT_U_L,Alanine Aminotransferase,24.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Screening,AST_U_L,Aspartate Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Screening,CREATININE_MG_DL,Creatinine,0.83,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Baseline,ALT_U_L,Alanine Aminotransferase,25.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Baseline,AST_U_L,Aspartate Aminotransferase,22.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Baseline,CREATININE_MG_DL,Creatinine,0.93,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,80.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 4,ALT_U_L,Alanine Aminotransferase,34.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 4,AST_U_L,Aspartate Aminotransferase,34.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 4,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.87,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 8,ALT_U_L,Alanine Aminotransferase,28.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 8,AST_U_L,Aspartate Aminotransferase,18.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 8,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.58,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,50.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 12,ALT_U_L,Alanine Aminotransferase,32.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 12,AST_U_L,Aspartate Aminotransferase,28.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 12,CREATININE_MG_DL,Creatinine,0.8,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-068,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,27.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Screening,ALT_U_L,Alanine Aminotransferase,42.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Screening,AST_U_L,Aspartate Aminotransferase,26.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Screening,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.99,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,89.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Baseline,ALT_U_L,Alanine Aminotransferase,19.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Baseline,AST_U_L,Aspartate Aminotransferase,23.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Baseline,CREATININE_MG_DL,Creatinine,0.98,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.82,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 4,ALT_U_L,Alanine Aminotransferase,42.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 4,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 4,CREATININE_MG_DL,Creatinine,0.69,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.79,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 8,ALT_U_L,Alanine Aminotransferase,44.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 8,AST_U_L,Aspartate Aminotransferase,16.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 8,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 12,ALT_U_L,Alanine Aminotransferase,27.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 12,AST_U_L,Aspartate Aminotransferase,20.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 12,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.89,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-069,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Screening,ALT_U_L,Alanine Aminotransferase,27.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Screening,AST_U_L,Aspartate Aminotransferase,21.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Screening,CREATININE_MG_DL,Creatinine,0.59,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.08,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Baseline,ALT_U_L,Alanine Aminotransferase,20.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Baseline,AST_U_L,Aspartate Aminotransferase,22.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Baseline,CREATININE_MG_DL,Creatinine,0.81,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.32,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 4,ALT_U_L,Alanine Aminotransferase,18.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 4,AST_U_L,Aspartate Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 4,CREATININE_MG_DL,Creatinine,0.75,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.15,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,75.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 8,ALT_U_L,Alanine Aminotransferase,38.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 8,AST_U_L,Aspartate Aminotransferase,20.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 8,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.6,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 12,ALT_U_L,Alanine Aminotransferase,21.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 12,AST_U_L,Aspartate Aminotransferase,33.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 12,CREATININE_MG_DL,Creatinine,0.79,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-070,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Screening,ALT_U_L,Alanine Aminotransferase,38.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Screening,AST_U_L,Aspartate Aminotransferase,44.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Screening,CREATININE_MG_DL,Creatinine,0.66,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,38.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Baseline,ALT_U_L,Alanine Aminotransferase,34.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Baseline,AST_U_L,Aspartate Aminotransferase,15.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Baseline,CREATININE_MG_DL,Creatinine,0.65,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.17,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 4,ALT_U_L,Alanine Aminotransferase,150.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 4,AST_U_L,Aspartate Aminotransferase,30.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 4,CREATININE_MG_DL,Creatinine,1.11,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.82,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 8,ALT_U_L,Alanine Aminotransferase,31.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 8,AST_U_L,Aspartate Aminotransferase,17.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 8,CREATININE_MG_DL,Creatinine,1.17,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.37,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,58.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 12,ALT_U_L,Alanine Aminotransferase,40.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 12,AST_U_L,Aspartate Aminotransferase,29.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 12,CREATININE_MG_DL,Creatinine,0.6,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.0,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-071,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,64.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Screening,ALT_U_L,Alanine Aminotransferase,26.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Screening,AST_U_L,Aspartate Aminotransferase,26.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Screening,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.94,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Baseline,ALT_U_L,Alanine Aminotransferase,26.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Baseline,AST_U_L,Aspartate Aminotransferase,23.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Baseline,CREATININE_MG_DL,Creatinine,1.07,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.76,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,41.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 4,ALT_U_L,Alanine Aminotransferase,36.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 4,AST_U_L,Aspartate Aminotransferase,25.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 4,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.19,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,30.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 8,ALT_U_L,Alanine Aminotransferase,25.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 8,AST_U_L,Aspartate Aminotransferase,34.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 8,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.33,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,35.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 12,ALT_U_L,Alanine Aminotransferase,25.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 12,AST_U_L,Aspartate Aminotransferase,15.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 12,CREATININE_MG_DL,Creatinine,0.86,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.87,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-072,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,53.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Screening,ALT_U_L,Alanine Aminotransferase,29.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Screening,AST_U_L,Aspartate Aminotransferase,17.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Screening,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.35,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,48.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Baseline,ALT_U_L,Alanine Aminotransferase,27.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Baseline,AST_U_L,Aspartate Aminotransferase,22.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Baseline,CREATININE_MG_DL,Creatinine,0.94,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.67,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,18.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 4,ALT_U_L,Alanine Aminotransferase,23.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 4,AST_U_L,Aspartate Aminotransferase,24.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 4,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,33.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 8,ALT_U_L,Alanine Aminotransferase,24.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 8,AST_U_L,Aspartate Aminotransferase,22.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 8,CREATININE_MG_DL,Creatinine,0.74,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.68,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 12,ALT_U_L,Alanine Aminotransferase,19.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 12,AST_U_L,Aspartate Aminotransferase,29.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 12,CREATININE_MG_DL,Creatinine,0.56,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.43,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-073,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Screening,ALT_U_L,Alanine Aminotransferase,41.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Screening,AST_U_L,Aspartate Aminotransferase,24.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Screening,CREATININE_MG_DL,Creatinine,0.46,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.3,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,45.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Baseline,ALT_U_L,Alanine Aminotransferase,32.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Baseline,AST_U_L,Aspartate Aminotransferase,28.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Baseline,CREATININE_MG_DL,Creatinine,0.93,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.49,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 4,ALT_U_L,Alanine Aminotransferase,35.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 4,AST_U_L,Aspartate Aminotransferase,14.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 4,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.07,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,40.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 8,ALT_U_L,Alanine Aminotransferase,27.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 8,AST_U_L,Aspartate Aminotransferase,26.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 8,CREATININE_MG_DL,Creatinine,0.91,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.99,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 12,ALT_U_L,Alanine Aminotransferase,16.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 12,AST_U_L,Aspartate Aminotransferase,35.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 12,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-074,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,68.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Screening,ALT_U_L,Alanine Aminotransferase,18.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Screening,AST_U_L,Aspartate Aminotransferase,18.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Screening,CREATININE_MG_DL,Creatinine,0.68,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.02,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Baseline,ALT_U_L,Alanine Aminotransferase,33.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Baseline,AST_U_L,Aspartate Aminotransferase,44.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Baseline,CREATININE_MG_DL,Creatinine,0.45,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.83,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,36.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 4,ALT_U_L,Alanine Aminotransferase,23.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 4,AST_U_L,Aspartate Aminotransferase,21.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 4,CREATININE_MG_DL,Creatinine,0.72,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.12,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,57.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 8,ALT_U_L,Alanine Aminotransferase,28.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 8,AST_U_L,Aspartate Aminotransferase,35.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 8,CREATININE_MG_DL,Creatinine,0.6,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,12.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 12,ALT_U_L,Alanine Aminotransferase,22.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 12,AST_U_L,Aspartate Aminotransferase,27.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 12,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.28,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-075,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,23.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Screening,ALT_U_L,Alanine Aminotransferase,34.4,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Screening,AST_U_L,Aspartate Aminotransferase,27.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Screening,CREATININE_MG_DL,Creatinine,1.05,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.17,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,49.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Baseline,ALT_U_L,Alanine Aminotransferase,18.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Baseline,AST_U_L,Aspartate Aminotransferase,23.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Baseline,CREATININE_MG_DL,Creatinine,1.01,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.21,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,32.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 4,ALT_U_L,Alanine Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 4,AST_U_L,Aspartate Aminotransferase,15.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 4,CREATININE_MG_DL,Creatinine,1.13,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.85,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,61.8,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 8,ALT_U_L,Alanine Aminotransferase,23.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 8,AST_U_L,Aspartate Aminotransferase,22.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 8,CREATININE_MG_DL,Creatinine,0.75,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,3.15,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,34.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 12,ALT_U_L,Alanine Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 12,AST_U_L,Aspartate Aminotransferase,23.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 12,CREATININE_MG_DL,Creatinine,0.5,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.42,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-076,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,27.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Screening,ALT_U_L,Alanine Aminotransferase,28.3,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Screening,AST_U_L,Aspartate Aminotransferase,17.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Screening,CREATININE_MG_DL,Creatinine,1.09,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.99,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Baseline,ALT_U_L,Alanine Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Baseline,AST_U_L,Aspartate Aminotransferase,32.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Baseline,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.17,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,18.4,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 4,ALT_U_L,Alanine Aminotransferase,22.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 4,AST_U_L,Aspartate Aminotransferase,21.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 4,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.69,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,55.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 8,ALT_U_L,Alanine Aminotransferase,23.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 8,AST_U_L,Aspartate Aminotransferase,25.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 8,CREATININE_MG_DL,Creatinine,1.14,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.51,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,44.1,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 12,ALT_U_L,Alanine Aminotransferase,23.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 12,AST_U_L,Aspartate Aminotransferase,21.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 12,CREATININE_MG_DL,Creatinine,0.73,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.45,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-077,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,56.3,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Screening,ALT_U_L,Alanine Aminotransferase,26.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Screening,AST_U_L,Aspartate Aminotransferase,16.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Screening,CREATININE_MG_DL,Creatinine,1.25,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.48,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,23.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Baseline,ALT_U_L,Alanine Aminotransferase,24.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Baseline,AST_U_L,Aspartate Aminotransferase,26.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Baseline,CREATININE_MG_DL,Creatinine,1.24,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.77,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,59.6,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 4,ALT_U_L,Alanine Aminotransferase,39.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 4,AST_U_L,Aspartate Aminotransferase,21.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 4,CREATININE_MG_DL,Creatinine,0.84,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.86,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 8,ALT_U_L,Alanine Aminotransferase,27.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 8,AST_U_L,Aspartate Aminotransferase,30.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 8,CREATININE_MG_DL,Creatinine,1.12,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.2,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,15.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 12,ALT_U_L,Alanine Aminotransferase,27.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 12,AST_U_L,Aspartate Aminotransferase,28.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 12,CREATININE_MG_DL,Creatinine,0.95,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.71,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-078,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,46.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Screening,ALT_U_L,Alanine Aminotransferase,40.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Screening,AST_U_L,Aspartate Aminotransferase,28.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Screening,CREATININE_MG_DL,Creatinine,0.83,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.5,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Baseline,ALT_U_L,Alanine Aminotransferase,41.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Baseline,AST_U_L,Aspartate Aminotransferase,24.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Baseline,CREATININE_MG_DL,Creatinine,0.9,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.52,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,61.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 4,ALT_U_L,Alanine Aminotransferase,43.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 4,AST_U_L,Aspartate Aminotransferase,29.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 4,CREATININE_MG_DL,Creatinine,0.92,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.14,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,9.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 8,ALT_U_L,Alanine Aminotransferase,34.0,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 8,AST_U_L,Aspartate Aminotransferase,26.9,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 8,CREATININE_MG_DL,Creatinine,0.99,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.25,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,39.2,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 12,ALT_U_L,Alanine Aminotransferase,24.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 12,AST_U_L,Aspartate Aminotransferase,33.2,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 12,CREATININE_MG_DL,Creatinine,0.82,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,4.6,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-079,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,51.5,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Screening,ALT_U_L,Alanine Aminotransferase,17.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Screening,AST_U_L,Aspartate Aminotransferase,25.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Screening,CREATININE_MG_DL,Creatinine,0.77,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Screening,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.53,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Screening,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,69.0,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Baseline,ALT_U_L,Alanine Aminotransferase,33.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Baseline,AST_U_L,Aspartate Aminotransferase,29.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Baseline,CREATININE_MG_DL,Creatinine,0.93,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Baseline,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.44,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Baseline,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,37.7,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 4,ALT_U_L,Alanine Aminotransferase,34.7,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 4,AST_U_L,Aspartate Aminotransferase,18.6,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 4,CREATININE_MG_DL,Creatinine,0.39,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 4,HSCRP_MG_L,High Sensitivity C-Reactive Protein,1.83,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 4,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,42.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 8,ALT_U_L,Alanine Aminotransferase,29.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 8,AST_U_L,Aspartate Aminotransferase,31.1,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 8,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 8,HSCRP_MG_L,High Sensitivity C-Reactive Protein,2.41,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 8,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,62.9,ng/mL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 12,ALT_U_L,Alanine Aminotransferase,15.8,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 12,AST_U_L,Aspartate Aminotransferase,29.5,U/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 12,CREATININE_MG_DL,Creatinine,1.03,mg/dL
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 12,HSCRP_MG_L,High Sensitivity C-Reactive Protein,0.61,mg/L
+RC101-OA-P2,LB,RC101-OA-P2-AYU-080,Week 12,MARKER_COMPOUND_NG_ML,Phytochemical Marker Compound,22.5,ng/mL
