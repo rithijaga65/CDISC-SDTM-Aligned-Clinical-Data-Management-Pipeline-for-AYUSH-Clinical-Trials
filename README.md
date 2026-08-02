@@ -1,5 +1,5 @@
 # Clinical Data Management Pipeline — AYUSH Herbal Trial (RC-101)
-🔗 **Live Dashboard:** https://rithijaga65.github.io/CDISC-SDTM-Aligned-Clinical-Data-Management-Pipeline-for-AYUSH-Clinical-Trials/docs/dashboard.html
+🔗 **Live Dashboard:** https://rithijaga65.github.io/CDISC-SDTM-Aligned-Clinical-Data-Management-Pipeline-for-AYUSH-Clinical-Trials/dashboard.html
 **Design and Implementation of a Clinical Data Management (CDM) Pipeline for an
 AYUSH/Herbal Drug Clinical Trial: A CDISC-Aligned Data Cleaning, Validation,
 and Quality Control Framework**
