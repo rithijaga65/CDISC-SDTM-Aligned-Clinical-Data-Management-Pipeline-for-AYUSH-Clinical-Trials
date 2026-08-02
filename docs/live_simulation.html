@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RC-101 AYUSH Trial — Live Simulation</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: #f7f7f5; margin: 0; padding: 2rem; color: #1a1a1a; }
+  .container { max-width: 900px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { color: #666; font-size: 14px; margin-bottom: 1.5rem; }
+  .controls { display: flex; align-items: center; gap: 12px; margin-bottom: 1.5rem; background: #fff; border: 1px solid #e5e4e0; border-radius: 10px; padding: 1rem 1.2rem; }
+  button { background: #1F4E5F; color: #fff; border: none; border-radius: 6px; padding: 8px 16px; font-size: 14px; cursor: pointer; }
+  button:hover { background: #163a47; }
+  button:disabled { background: #ccc; cursor: not-allowed; }
+  .week-label { font-size: 15px; font-weight: 600; min-width: 110px; }
+  input[type=range] { flex: 1; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
+  .metric-card { background: #fff; border-radius: 10px; padding: 1rem 1.2rem; border: 1px solid #e5e4e0; transition: transform 0.15s; }
+  .metric-card.pulse { transform: scale(1.03); border-color: #1F4E5F; }
+  .metric-label { font-size: 13px; color: #666; margin: 0 0 6px; }
+  .metric-value { font-size: 26px; font-weight: 600; margin: 0; }
+  .metric-delta { font-size: 12px; color: #1baf7a; margin: 2px 0 0; }
+  .alert-box { background: #fff5f5; border: 1px solid #f5c2c2; border-radius: 10px; padding: 0.8rem 1.2rem; margin-bottom: 1.5rem; font-size: 13px; color: #a12525; display: none; }
+  .alert-box.show { display: block; }
+  .log-box { background: #fff; border-radius: 10px; border: 1px solid #e5e4e0; padding: 1rem 1.2rem; max-height: 220px; overflow-y: auto; font-size: 13px; }
+  .log-line { padding: 4px 0; border-bottom: 1px solid #f0f0ee; color: #444; }
+  .log-line:last-child { border-bottom: none; }
+  .footer-note { font-size: 12px; color: #888; margin-top: 1.5rem; text-align: center; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>RC-101 AYUSH Trial — Live Enrollment Simulation</h1>
+  <p class="subtitle">Protocol RC101-OA-P2 &middot; Simulated week-by-week data arrival, as sites submit CRFs</p>
+
+  <div class="controls">
+    <button id="playBtn">▶ Play</button>
+    <button id="resetBtn">⟲ Reset</button>
+    <span class="week-label" id="weekLabel">Week 0 of 31</span>
+    <input type="range" id="weekSlider" min="0" max="31" value="0">
+  </div>
+
+  <div class="alert-box" id="saeAlert">⚠ New Serious Adverse Event detected — flagged for 24-hour regulatory reporting review.</div>
+
+  <div class="metrics">
+    <div class="metric-card" id="cardSubj"><p class="metric-label">Subjects enrolled</p><p class="metric-value" id="valSubj">0</p><p class="metric-delta" id="deltaSubj"></p></div>
+    <div class="metric-card" id="cardVS"><p class="metric-label">Vital signs records</p><p class="metric-value" id="valVS">0</p><p class="metric-delta" id="deltaVS"></p></div>
+    <div class="metric-card" id="cardQ"><p class="metric-label">Open queries</p><p class="metric-value" id="valQ">0</p><p class="metric-delta" id="deltaQ"></p></div>
+    <div class="metric-card" id="cardSAE"><p class="metric-label">SAEs flagged</p><p class="metric-value" id="valSAE">0</p><p class="metric-delta" id="deltaSAE"></p></div>
+  </div>
+
+  <div class="log-box" id="logBox">
+    <div class="log-line">Simulation ready. Press Play or drag the slider to step through enrollment week by week.</div>
+  </div>
+
+  <p class="footer-note">Synthetic data replayed as weekly arrival batches. Same underlying dataset and validation logic as the static pipeline — 80 subjects, 100% seeded-error detection, 2 confirmed SAEs by trial end.</p>
+</div>
+
+<script>
+const simData = [{"SIM_WEEK": 0, "NEW_SUBJECTS": 3, "CUMULATIVE_SUBJECTS": 3, "NEW_VS_RECORDS": 3, "CUMULATIVE_VS_RECORDS": 3, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 1, "CUMULATIVE_SAE_COUNT": 0}, {"SIM_WEEK": 1, "NEW_SUBJECTS": 8, "CUMULATIVE_SUBJECTS": 11, "NEW_VS_RECORDS": 8, "CUMULATIVE_VS_RECORDS": 11, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 1, "CUMULATIVE_SAE_COUNT": 0}, {"SIM_WEEK": 2, "NEW_SUBJECTS": 2, "CUMULATIVE_SUBJECTS": 13, "NEW_VS_RECORDS": 5, "CUMULATIVE_VS_RECORDS": 16, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 1, "CUMULATIVE_SAE_COUNT": 0}, {"SIM_WEEK": 3, "NEW_SUBJECTS": 3, "CUMULATIVE_SUBJECTS": 16, "NEW_VS_RECORDS": 11, "CUMULATIVE_VS_RECORDS": 27, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 1, "CUMULATIVE_SAE_COUNT": 0}, {"SIM_WEEK": 4, "NEW_SUBJECTS": 6, "CUMULATIVE_SUBJECTS": 22, "NEW_VS_RECORDS": 11, "CUMULATIVE_VS_RECORDS": 38, "NEW_AE_RECORDS": 6, "CUMULATIVE_QUERIES_OPEN": 2, "CUMULATIVE_SAE_COUNT": 1}, {"SIM_WEEK": 5, "NEW_SUBJECTS": 9, "CUMULATIVE_SUBJECTS": 31, "NEW_VS_RECORDS": 20, "CUMULATIVE_VS_RECORDS": 58, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 4, "CUMULATIVE_SAE_COUNT": 1}, {"SIM_WEEK": 6, "NEW_SUBJECTS": 4, "CUMULATIVE_SUBJECTS": 35, "NEW_VS_RECORDS": 15, "CUMULATIVE_VS_RECORDS": 73, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 4, "CUMULATIVE_SAE_COUNT": 1}, {"SIM_WEEK": 7, "NEW_SUBJECTS": 3, "CUMULATIVE_SUBJECTS": 38, "NEW_VS_RECORDS": 23, "CUMULATIVE_VS_RECORDS": 96, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 6, "CUMULATIVE_SAE_COUNT": 1}, {"SIM_WEEK": 8, "NEW_SUBJECTS": 10, "CUMULATIVE_SUBJECTS": 48, "NEW_VS_RECORDS": 22, "CUMULATIVE_VS_RECORDS": 118, "NEW_AE_RECORDS": 2, "CUMULATIVE_QUERIES_OPEN": 8, "CUMULATIVE_SAE_COUNT": 1}, {"SIM_WEEK": 9, "NEW_SUBJECTS": 3, "CUMULATIVE_SUBJECTS": 51, "NEW_VS_RECORDS": 18, "CUMULATIVE_VS_RECORDS": 136, "NEW_AE_RECORDS": 2, "CUMULATIVE_QUERIES_OPEN": 8, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 10, "NEW_SUBJECTS": 2, "CUMULATIVE_SUBJECTS": 53, "NEW_VS_RECORDS": 25, "CUMULATIVE_VS_RECORDS": 161, "NEW_AE_RECORDS": 2, "CUMULATIVE_QUERIES_OPEN": 8, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 11, "NEW_SUBJECTS": 6, "CUMULATIVE_SUBJECTS": 59, "NEW_VS_RECORDS": 29, "CUMULATIVE_VS_RECORDS": 190, "NEW_AE_RECORDS": 3, "CUMULATIVE_QUERIES_OPEN": 12, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 12, "NEW_SUBJECTS": 1, "CUMULATIVE_SUBJECTS": 60, "NEW_VS_RECORDS": 19, "CUMULATIVE_VS_RECORDS": 209, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 12, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 13, "NEW_SUBJECTS": 7, "CUMULATIVE_SUBJECTS": 67, "NEW_VS_RECORDS": 22, "CUMULATIVE_VS_RECORDS": 231, "NEW_AE_RECORDS": 4, "CUMULATIVE_QUERIES_OPEN": 12, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 14, "NEW_SUBJECTS": 3, "CUMULATIVE_SUBJECTS": 70, "NEW_VS_RECORDS": 28, "CUMULATIVE_VS_RECORDS": 259, "NEW_AE_RECORDS": 2, "CUMULATIVE_QUERIES_OPEN": 15, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 15, "NEW_SUBJECTS": 1, "CUMULATIVE_SUBJECTS": 71, "NEW_VS_RECORDS": 42, "CUMULATIVE_VS_RECORDS": 301, "NEW_AE_RECORDS": 3, "CUMULATIVE_QUERIES_OPEN": 17, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 16, "NEW_SUBJECTS": 8, "CUMULATIVE_SUBJECTS": 79, "NEW_VS_RECORDS": 22, "CUMULATIVE_VS_RECORDS": 323, "NEW_AE_RECORDS": 6, "CUMULATIVE_QUERIES_OPEN": 18, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 17, "NEW_SUBJECTS": 1, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 24, "CUMULATIVE_VS_RECORDS": 347, "NEW_AE_RECORDS": 3, "CUMULATIVE_QUERIES_OPEN": 18, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 18, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 34, "CUMULATIVE_VS_RECORDS": 381, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 21, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 19, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 30, "CUMULATIVE_VS_RECORDS": 411, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 20, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 21, "CUMULATIVE_VS_RECORDS": 432, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 21, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 14, "CUMULATIVE_VS_RECORDS": 446, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 22, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 29, "CUMULATIVE_VS_RECORDS": 475, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 23, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 14, "CUMULATIVE_VS_RECORDS": 489, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 24, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 7, "CUMULATIVE_VS_RECORDS": 496, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 25, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 13, "CUMULATIVE_VS_RECORDS": 509, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 26, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 10, "CUMULATIVE_VS_RECORDS": 519, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 27, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 15, "CUMULATIVE_VS_RECORDS": 534, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 28, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 6, "CUMULATIVE_VS_RECORDS": 540, "NEW_AE_RECORDS": 1, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 29, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 2, "CUMULATIVE_VS_RECORDS": 542, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 30, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 16, "CUMULATIVE_VS_RECORDS": 558, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}, {"SIM_WEEK": 31, "NEW_SUBJECTS": 0, "CUMULATIVE_SUBJECTS": 80, "NEW_VS_RECORDS": 2, "CUMULATIVE_VS_RECORDS": 560, "NEW_AE_RECORDS": 0, "CUMULATIVE_QUERIES_OPEN": 23, "CUMULATIVE_SAE_COUNT": 2}];
+
+let currentWeek = 0;
+let playing = false;
+let playTimer = null;
+
+const weekLabel = document.getElementById('weekLabel');
+const weekSlider = document.getElementById('weekSlider');
+const playBtn = document.getElementById('playBtn');
+const resetBtn = document.getElementById('resetBtn');
+const logBox = document.getElementById('logBox');
+const saeAlert = document.getElementById('saeAlert');
+
+function addLog(text) {
+  const line = document.createElement('div');
+  line.className = 'log-line';
+  line.textContent = text;
+  logBox.insertBefore(line, logBox.firstChild);
+}
+
+function pulse(id) {
+  const el = document.getElementById(id);
+  el.classList.add('pulse');
+  setTimeout(() => el.classList.remove('pulse'), 400);
+}
+
+function renderWeek(weekIdx, isStep) {
+  const row = simData[weekIdx];
+  const prevRow = weekIdx > 0 ? simData[weekIdx - 1] : null;
+
+  weekLabel.textContent = `Week ${row.SIM_WEEK} of ${simData[simData.length - 1].SIM_WEEK}`;
+  weekSlider.value = weekIdx;
+
+  document.getElementById('valSubj').textContent = row.CUMULATIVE_SUBJECTS;
+  document.getElementById('valVS').textContent = row.CUMULATIVE_VS_RECORDS;
+  document.getElementById('valQ').textContent = row.CUMULATIVE_QUERIES_OPEN;
+  document.getElementById('valSAE').textContent = row.CUMULATIVE_SAE_COUNT;
+
+  if (isStep && prevRow) {
+    if (row.NEW_SUBJECTS > 0) {
+      document.getElementById('deltaSubj').textContent = `+${row.NEW_SUBJECTS} this week`;
+      pulse('cardSubj');
+      addLog(`Week ${row.SIM_WEEK}: ${row.NEW_SUBJECTS} new subject(s) enrolled (total: ${row.CUMULATIVE_SUBJECTS})`);
+    } else {
+      document.getElementById('deltaSubj').textContent = '';
+    }
+    if (row.NEW_VS_RECORDS > 0) {
+      document.getElementById('deltaVS').textContent = `+${row.NEW_VS_RECORDS} this week`;
+      pulse('cardVS');
+    }
+    if (row.CUMULATIVE_QUERIES_OPEN > prevRow.CUMULATIVE_QUERIES_OPEN) {
+      const newQ = row.CUMULATIVE_QUERIES_OPEN - prevRow.CUMULATIVE_QUERIES_OPEN;
+      document.getElementById('deltaQ').textContent = `+${newQ} new`;
+      pulse('cardQ');
+      addLog(`Week ${row.SIM_WEEK}: ${newQ} new data query(ies) raised by validation pipeline`);
+    } else {
+      document.getElementById('deltaQ').textContent = '';
+    }
+    if (row.CUMULATIVE_SAE_COUNT > prevRow.CUMULATIVE_SAE_COUNT) {
+      document.getElementById('deltaSAE').textContent = 'New SAE';
+      pulse('cardSAE');
+      saeAlert.classList.add('show');
+      addLog(`Week ${row.SIM_WEEK}: Serious Adverse Event reported — regulatory timeline check triggered`);
+      setTimeout(() => saeAlert.classList.remove('show'), 3500);
+    } else {
+      document.getElementById('deltaSAE').textContent = '';
+    }
+  }
+}
+
+function stepForward() {
+  if (currentWeek < simData.length - 1) {
+    currentWeek++;
+    renderWeek(currentWeek, true);
+  } else {
+    pausePlay();
+    addLog('Simulation complete — End of Study reached for all subjects.');
+  }
+}
+
+function startPlay() {
+  playing = true;
+  playBtn.textContent = '⏸ Pause';
+  playTimer = setInterval(stepForward, 500);
+}
+function pausePlay() {
+  playing = false;
+  playBtn.textContent = '▶ Play';
+  clearInterval(playTimer);
+}
+
+playBtn.addEventListener('click', () => { playing ? pausePlay() : startPlay(); });
+resetBtn.addEventListener('click', () => {
+  pausePlay();
+  currentWeek = 0;
+  renderWeek(0, false);
+  logBox.innerHTML = '<div class="log-line">Simulation reset.</div>';
+});
+weekSlider.addEventListener('input', (e) => {
+  pausePlay();
+  currentWeek = parseInt(e.target.value);
+  renderWeek(currentWeek, false);
+});
+
+renderWeek(0, false);
+</script>
+</body>
+</html>
